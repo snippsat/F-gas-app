@@ -10,6 +10,7 @@ from pathlib import Path
 from markupsafe import Markup
 import unicodedata
 from flask_login import login_required, current_user
+from app.routes.auth import admin_required
 
 # Define a function to format file sizes
 def format_file_size(size_bytes):
