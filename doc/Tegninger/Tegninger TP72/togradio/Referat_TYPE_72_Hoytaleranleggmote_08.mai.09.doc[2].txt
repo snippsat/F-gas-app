@@ -1,0 +1,256 @@
+1202 Høytaleranlegg – Type 72 – Arbeidsmøte 8. mai 
+Utviklet av: Luca Cuppari og Leif-Are Larsen
+2 NSB Teknikk - LAL/LUC 08.mai.09 
+Agenda og tidsplan 
+• 10.00 – 10.30: Introduksjon 
+– Presentasjon av deltagerne 
+– Gjennomføring av møtet 
+– Hensikt med møtet og hva møtet skal lede frem til 
+– Kort teoretisk introduksjon til høytaleranlegg 
+– Operasjonelle villkår (A-feil og UKS/IKS) 
+– Vedlikehold 
+• 10.30 – 11.30: Gjennomgang av verstinger 
+– Innsamling av feil i IRMA 
+– Presentasjon av problemområder 
+• 11.30 – 12.00: Lunsj 
+• 12.00 – 13.30: Ute på toget 
+– Funksjonel introduksjon til høytaleranlegg 
+– Gjennomgang av problemområder 
+• 13.30 – 14.30: Oppsummering og veien videre 
+– Ferdigsstille aksjonsplan 
+– Plus/delta
+3 NSB Teknikk - LAL/LUC 08.mai.09 
+Gjennomføring av møtet 
+• Forholde seg til tidsplan 
+• Alle har ansvar for at møtet blir en suksess 
+• 10 menneskers visdom er bedre enn 1 menneskes kunnskap m.a.o. alle kan bidra 
+• Utrykk hva du mener men husk å lytte, og sjekk ut at vi forstår hverandre før vi 
+konkluderer 
+• 1 ting av gangen med en parkeringsplass for gode ideer 
+• Tenk grenseløse muligheter 
+• Vi er her for å gjøre hverandre bedre derfor må sannheten på bordet 
+• Plus/delta 
+• Husk å skru på telefonen når du forflater møtet
+4 NSB Teknikk - LAL/LUC 08.mai.09 
+Introduksjon 
+• Hensikten med arbeidsmøte 
+Forbedre systempåliteligheten (Hovedsakelig fra et kundeperspektiv) på 
+Type 72’s høytaleranlegg. 
+• Hvordan oppnå hensikt 
+– Samhandle på tvers av NSB organisasjoner 
+– Undersøke om det finnes forbedringstiltak på følgende områder eller i 
+grensesnittene mellom områdene: 
+• Teknisk 
+• Betjening 
+• Operasjonelle prosedyrer: A-feil, UKS/IKS etc 
+• Vedlikehold: Utførelse av korrektivt og forebyggende aktiviteter 
+• Vedlikeholdsprogram: Aktiviteter og arbeidsbeskrivelse 
+• Organisjon 
+– Beskriver eventuelle tiltak i en omforent aksjonsplan
+5 NSB Teknikk - LAL/LUC 08.mai.09 
+Hvorfor bør vi forbedre høytaleranlegget? 
+• Tiende verste A-feil driver på Type 72 i 2008 
+• Trede verste F1 feil (Vanlig feil) på Type 72 2008 
+• Feil på høytaleranlegget påvirker de reisende og togpersonalet direkte 
+siden det er et kommunikasjon/informasjonssystem. 
+• Feil på intercom reduserer samhandlig i tog. 
+• Typiske feil: 
+– PIS Annonserer feil stasjon 
+– PIS Annonserer ikke 
+– Intercom fungerer ikke
+6 NSB Teknikk - LAL/LUC 08.mai.09 
+Resultat - Feil på høytaleranlegg/PIS - 2008 
+• Rapporterte feil: 308 
+• Gjennomsnittelig feil per togsett (36): 9 
+• Akkumulert km Type 72: 6,5 mill 
+• Gjennomsnittelig km mellom hver feil: 21.000 km 
+• Hvilke tognr feiler PIS? De 297 feilene er jevnt fordelt, med tognr. 190 som en 
+versting med 7 feil. 
+Totalt 297 11 308 
+F1 269 11 280 
+A6 11 11
+A5 3 3 
+A4 14 14 
+FEILKAT. DRIFT VST Alle 
+Meldt av
+7 NSB Teknikk - LAL/LUC 08.mai.09 
+Versting vogn 
+72125 7
+72133 7
+72008 8
+72106 9
+72108 9 
+72114 11 
+72135 13 
+72110 14 
+72118 19 
+Vogn Totalt 
+Totalt 19
+(tom) (tom) 1
+HØYTALERANLEGG FIF 2
+Cab loudspeaker (tom) 2
+Mikrofon (tom) 2
+Sentral CPU og MVB,RS232 grensesnitt (tom) 4
+GPS rack 1
+FIF 2
+Kontrollboks Flash kort 5 
+Komponent/funksjon Årsak Totalt 
+72118 
+Snitt per vogn: 3,6
+8 NSB Teknikk - LAL/LUC 08.mai.09 
+Reparasjonstiltak 
+Ca. 48 % av alle feil er av typen 
+resetting og feilsøkt ikke funnet. Dette 
+er alt for høyt. 
+Symptom hvor Mantena ikke finner feil: 
+-PIS annonserer ikke 
+-PIS annonserer feil 
+-Mangler GPS signal og PIS feil 
+- PIS er ustabil og resetter 
+-Symptom hvor det kan mistenkes 
+feilbetjening: 
+-Intercom lyse fast 
+-Intercom virker ikke 
+-Får ikke annonsert fra lok/kond plass
+9 NSB Teknikk - LAL/LUC 08.mai.09 
+Hvilke funksjoner feiler oftest?
+10 NSB Teknikk - LAL/LUC 08.mai.09 
+Hvilke symptomer opptrer oftes på funksjon 
+kontrollboks og høytaleranlegg?
+11 NSB Teknikk - LAL/LUC 08.mai.09 
+Hvilke tiltak har blitt gjort for å reparere feilene mot 
+den automatiske annonseringen? 
+FIF 1
+Mangler flash kort Flash kort 8
+FIF 1
+Mangler flash kort Flash kort 8
+Flash kort 1 
+Ustabilt/resetter PIS FIF 10
+GPS kort 2
+GPS rack 2 
+Mangler GPS signal (PIS feil) FIF 13
+Flash kort 1
+PIS kort 1
+Glassikring 4 
+PIS annonserer ikke FIF 23
+PIS kort 2 
+Flash kort 10 
+PIS annonserer feil FIF 18 
+Symptom Årsak Antall
+12 NSB Teknikk - LAL/LUC 08.mai.09 
+Hvilke tiltak har blitt gjort for å reparere feilene mot 
+den intercom? 
+Intercom støy FIF 2
+Intercom henger FIF 3
+Blokkert linje 1
+Rack 1
+Intercom går på umotivert FIF 2
+Flash kort 1
+Blokkert linje 2
+Glassikring 2
+Intercom lyser fast FIF 3
+Blokkert linje 1
+Annet 1
+FIF 4
+Får ikke annonserert fra kond.plass Glassikring 5
+kort 704.313.33 1
+Blokkert linje 2
+Glassikring 2
+Får ikke annonserert fra førerplass FIF 6
+Rack 1
+Resatt togsett 1
+FIF 3
+Intercom virker ikke Glassikring 7
+13 NSB Teknikk - LAL/LUC 08.mai.09 
+Sikkerhetsrelaterte feil 
+• 72-03 og 72-17, 04/03: Tog mørklagt i Lieråsen tunnel etter at KL ble 
+revet. 
+• PA/Intercom fungerte ikke mellom togene etter batteri kontaktorer la 
+seg ut etter ca. 10 min. Hvorfor?
+ 1202 Høytaleranlegg - Aksjonsplan - Arbeidsmøte 8. mai 2009 
+Funksjon Hva Tiltak Ansv. Pers Ansv. Org Kommentarer 
+Datainnsamling IRMA Mangelfull feilbeskrivelse og underrapportering Informer Loklederne om behovet til Teknikk. Kontakt Leif-Are for underlag Tor Drift Jobbes kontinuerlig 
+12.02.00.00 Høytaleranlegg Høytaleranlegg/intercom fungerer ikke etter at 
+batterikontaktor legger seg ut (Ca. 10 min) 
+Sjekke logikken i SW Terje Teknikk Hvis SW er OK. Involveres brukerne for å sikkre riktig 
+betjening. 
+Kontroll av volumstyrke og høytalerfunksjon og tetting av hull Terje Teknikk Sjekkes først gjennom mod. Vurderes deretter i 
+vedlikeholdsprogrammet. 
+Informer om at togpersonalet ikke skal justere volum Cristian/ 
+Bjørn Ole 
+Drift Foreslås inkludert i samme DR-sirkulære andre tiltak ift 
+betjening og nye tekniske løsninger. 
+Midlertidig: Fast bøyd rør vurderes 
+Langsiktig: Retningsstyrt mikrofon forran fører Lik (EL18) 
+Terje Teknikk Tiltaket kjøres i NSB regi. Fremdrift avhengig av tilgang på 
+ressurser i Teknikk. 
+Skaffe tilveie deler Erling Mantena Nye mikrofoner skal være bestilt. 
+Henger seg i driften Bytt bryter Erling Mantena Er det meldt konkret at bryteren henger eller ikke fungerer 
+skal den byttes. 
+Blir ikke tilbakestilt ved førerrom-førerrom kommunikasjon. Opplæring konduktører 
+DR sirkulær 
+Cristian/ 
+Bjørn Ole 
+Drift Foreslås inkludert i samme DR-sirkulære andre tiltak ift 
+betjening og nye tekniske løsninger. 
+Blir ikke tilbakestilt ved førerrom-førerrom kommunikasjon. Vurdere tidssystering slik at linja ikke tas opp Terje Teknikk Problemet diskuteres med ATR. Videre aksjoner 
+bestemmes etter dette 
+PIS Annonserer feil - Flash kort Flash kort erstattes med USB kort Terje Teknikk Arbeidsmøte med ATR uke 20 hvor løsning ferdigstilles 
+Luca PIS test i 1205 Terje Teknikk 
+Bruk Luca PIS test under feilsøking Erling Mantena Oversendt til Erling på møtet 
+Oppdatere nye USB kort med riktig ruteplan Programmer nye USB kort Tor Drift Avhengig av ferdigstilling av nytt USB kort 
+Flash kort blir borte, togpersonalet bytter kort mellom BmB 
+og Bma, og hvordan PIS skal betjenes manuelt. 
+Utvikle DR-Sikrulær, basert på resultat etter testing uke 20, med informsjon 
+om at Flash kort blir borte, bruk av syst og info om nytt system. 
+Cristian/ 
+Bjørn Ole 
+Drift Foreslås inkludert i samme DR-sirkulære andre tiltak ift 
+betjening og nye tekniske løsninger. 
+Ingen videre tiltak på plombering, oppdatering etc av 
+gamle kort da nytt USB kort kommer snart. 
+Ruteplan database må endres ved endring i ruteplan Kjøre Tog Prosessen (KTP) beslutningsunderlag har forslått en del endringer 
+ift oppdatering av database. Beslutninger tas hos P-tog. 
+Plan: Formidle endringer til Teknikk 
+Teknikk: Oppdatering/vedlikehold 
+Kai Drift 
+For å sikkre en robust prosesses bør det utarbeides en 
+prosess og prosedyrer som aksepteres av alle parter. 
+12.02.08.00 Kontrollboks - 
+Glassikring 1,6A (Tidligere 1,2A) 
+for mikrofon 
+PIS annonserer ikke/Intercom fungerer ikke/får ikke 
+annonsert fra lok/kond plass 
+Sjekke design løsning. Er av treg type Terje Teknikk Problemet diskuteres med ATR. Videre aksjoner 
+bestemmes etter dette 
+Annonserer bare i 1 vogn Fjerne enkeltvogn bryter Terje Teknikk Må sjekkes opp mot UIC standard 
+Intercom blokkerer linja Kan denne C-knapp deaktiviseres Terje Teknikk Må sjekkes opp mot UIC standard 
+Overnevnte symptom Opplæring konduktører Cristian/ 
+Bjørn Ole 
+Drift Foreslås inkludert i samme DR-sirkulære andre tiltak ift 
+betjening og nye tekniske løsninger. 
+Koblinger mellom mother board og kort Terje Teknikk Sjekkes ut i arbeidsmøte med ATR uke 20 
+Løsne ledninger før bytte av rack Erling Mantena 
+Vurdere GSM konnektor PIS rack Terje Teknikk Sjekkes ut i arbeidsmøte med ATR uke 20 
+Beskrive feilsøkingmetodikk i feilsøkingsdok dok 1205 Terje Teknikk 
+Ustabil MVB bus ift telling når GPS ikke brukes. Håndteres gjennom BUS 
+mod 
+Alexander Teknikk Modifikasjonen er satt ut og utføres fortløpende. 
+Lang resettingstid Kan vi gå ned fra 5 til mindre antall satelitter? Luca Teknikk Sjekkes ut med ATR ift SW step 7 
+Samme design som MESA Terje Teknikk 
+Vurder mechanical knock - DR sirkulær Cristian/ 
+Bjørn Ole 
+Drift Foreslås inkludert i samme DR-sirkulære andre tiltak ift 
+betjening og nye tekniske løsninger. 
+Bytt håndsett Erling Mantena 
+12.02.08.00 Kontrollboks - Brytere 
+PIS Annonserer feil stasjon 
+12.02.02.01 Høytalere pass. Kupe Volum for høyt eller lavt 
+12.02.13.01 Håndsett med tastatur Hører ikke pling/klikking når handsett betjenes 
+12.02.08.00 Kontrollboks - GPS Mangler GPS signal (PIS feil)/Ustabilt/resetter PIS 
+12.02.08.00 Kontrollboks - 
+DCU og flash kort 
+12.02.03.01 Mikrofon Svanehals ryker 
+12.02.03.03 Intercom linje koble 
+inn trykknapp 
+08.05.2009

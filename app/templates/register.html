@@ -1,0 +1,50 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="bg-white p-6 rounded-lg shadow-md">
+    <h2 class="text-xl font-bold mb-4">Register F-Gas</h2>
+    
+    {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+            {% for category, message in messages %}
+                <div class="p-4 mb-4 {% if category == 'error' %}bg-red-100 text-red-700{% else %}bg-green-100 text-green-700{% endif %} rounded-lg">
+                    {{ message }}
+                </div>
+            {% endfor %}
+        {% endif %}
+    {% endwith %}
+    
+    <form method="POST" action="{{ url_for('main.register') }}" class="space-y-4">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div>
+                <label for="id" class="block text-sm font-medium text-gray-700">ID</label>
+                <input type="text" id="id" name="id" required maxlength="10"
+                       class="mt-1 block w-1/4 rounded-md border-2 border-blue-500 shadow-sm focus:border-blue-700 focus:ring-blue-500 py-2 px-3">
+            </div>
+            
+            <div>
+                <label for="date" class="block text-sm font-medium text-gray-700">Date</label>
+                <input type="date" id="date" name="date" required 
+                       class="mt-1 block w-full md:w-2/3 rounded-md border-2 border-red-500 shadow-sm focus:border-red-700 focus:ring-red-500 py-2 px-3">
+            </div>
+        </div>
+        
+        <div>
+            <label for="comments" class="block text-sm font-medium text-gray-700">Comments</label>
+            <textarea id="comments" name="comments" rows="4" 
+                      class="mt-1 block w-full rounded-md border-4 border-green-500 shadow-sm focus:border-green-700 focus:ring-green-500"></textarea>
+        </div>
+        
+        <div>
+            <label for="filled_kg" class="block text-sm font-medium text-gray-700">Filled (kg)</label>
+            <input type="number" id="filled_kg" name="filled_kg" step="0.01" min="0" max="999.99" required 
+                   class="mt-1 block w-1/4 rounded-md border-2 border-blue-500 shadow-sm focus:border-blue-700 focus:ring-blue-500 py-2 px-3">
+        </div>
+        
+        <div class="flex space-x-4">
+            <button type="submit" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">Save to DB</button>
+            <a href="{{ url_for('main.index') }}" class="bg-gray-500 text-white px-4 py-2 rounded hover:bg-gray-600">Cancel</a>
+        </div>
+    </form>
+</div>
+{% endblock %} 

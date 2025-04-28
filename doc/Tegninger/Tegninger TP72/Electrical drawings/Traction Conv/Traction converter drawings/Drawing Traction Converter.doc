@@ -1,0 +1,858 @@
+{\rtf1\ansi\ansicpg1252\uc1 \deff0\deflang1033\deflangfe1040{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}}{\colortbl;\red0\green0\blue0;
+\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;
+\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid \snext0 Normal;}{\s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright 
+\b\f1\fs20\lang1040\cgrid \sbasedon0 \snext0 heading 1;}{\s2\qc\keepn\nowidctlpar\widctlpar\outlinelevel1\adjustright \b\f1\fs16\lang1040\cgrid \sbasedon0 \snext0 heading 2;}{\s3\qc\keepn\nowidctlpar\widctlpar\outlinelevel2\adjustright 
+\b\f1\fs12\lang1040\cgrid \sbasedon0 \snext0 heading 3;}{\s4\qc\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \b\f1\fs10\lang1040\cgrid \sbasedon0 \snext0 heading 4;}{\s5\keepn\nowidctlpar\widctlpar\outlinelevel4\adjustright 
+\b\f1\fs16\lang1040\cgrid \sbasedon0 \snext0 heading 5;}{\*\cs10 \additive Default Paragraph Font;}{\s15\qc\nowidctlpar\widctlpar\adjustright \b\f1\fs16\lang1040\cgrid \sbasedon0 \snext15 Body Text;}{\s16\nowidctlpar\widctlpar
+\tqc\tx4819\tqr\tx9638\adjustright \fs20\lang1040\cgrid \sbasedon0 \snext16 header;}{\s17\nowidctlpar\widctlpar\tqc\tx4819\tqr\tx9638\adjustright \fs20\lang1040\cgrid \sbasedon0 \snext17 footer;}}{\info{\author ANSALDO TRASPORTI S.P.A.}
+{\operator ANSALDO TRASPORTI S.P.A.}{\creatim\yr1999\mo3\dy15\hr16\min38}{\revtim\yr1999\mo4\dy9\hr13\min19}{\printim\yr1999\mo4\dy9\hr13\min19}{\version42}{\edmins258}{\nofpages1}{\nofwords0}{\nofchars0}{\*\company ANSALDO TRASPORTI S.P.A.}{\nofcharsws0}
+{\vern73}}\paperw16840\paperh11907\margl0\margr0\margt0\margb0 \deftab708\widowctrl\ftnbj\aenddoc\hyphhotz283\hyphcaps0\formshade\viewkind1\viewscale150\pgbrdrhead\pgbrdrfoot \fet0\sectd 
+\lndscpsxn\psz9\linex0\headery709\footery709\colsx709\endnhere\sectdefaultcl {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang
+{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7
+\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain \nowidctlpar\widctlpar\adjustright 
+\fs20\lang1040\cgrid {\lang1024 {\shp{\*\shpinst\shpleft15652\shptop462\shpright16054\shpbottom2393\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz139\shplid1253{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 65536}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn txflTextFlow}{\sv 2}}{\sp{\sn hspNext}{\sv 1253}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {
+Allegato 1 
+\par al 436 EC07928B
+\par 
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8331\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {Allegato 1 
+\par al 436 EC07928B
+\par 
+\par }}\dpx15652\dpy462\dpxsize402\dpysize1931\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinehollow}}}
+{\shp{\*\shpinst\shpleft14288\shptop6109\shpright14478\shpbottom6623\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz138\shplid1252{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 131072}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn txflTextFlow}{\sv 2}}
+{\sp{\sn hspNext}{\sv 1252}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \s2\qc\keepn\nowidctlpar\widctlpar\outlinelevel1\adjustright \b\f1\fs16\lang1040\cgrid {DCW
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8330\dptxbx{\dptxbxtext\pard\plain \s2\qc\keepn\nowidctlpar\widctlpar\outlinelevel1\adjustright \b\f1\fs16\lang1040\cgrid {DCW
+\par }}\dpx14288\dpy6109\dpxsize190\dpysize514\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft13798\shptop6079\shpright13988\shpbottom6593\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz137\shplid1251{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 196608}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn txflTextFlow}{\sv 2}}
+{\sp{\sn hspNext}{\sv 1251}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 TCW
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8329\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 TCW
+\par }}\dpx13798\dpy6079\dpxsize190\dpysize514\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft4946\shptop7902\shpright5379\shpbottom8106\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz131\shplid1245{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 262144}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1245}}
+{\sp{\sn fFilled}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s2\qc\keepn\nowidctlpar\widctlpar\outlinelevel1\adjustright \b\f1\fs16\lang1040\cgrid {MA
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8323\dptxbx{\dptxbxtext\pard\plain \s2\qc\keepn\nowidctlpar\widctlpar\outlinelevel1\adjustright \b\f1\fs16\lang1040\cgrid {MA
+\par }}\dpx4946\dpy7902\dpxsize433\dpysize204\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft14384\shptop5631\shpright14924\shpbottom5828\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz53\shplid1146{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 327680}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1146}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain 
+\qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 TACB
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8245\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 TACB
+\par }}\dpx14384\dpy5631\dpxsize540\dpysize197\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat0\dplinehollow}}}
+{\shpgrp{\*\shpinst\shpleft14420\shptop5890\shpright14940\shpbottom6243\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz54\shplid1147{\sp{\sn groupLeft}{\sv 14420}}{\sp{\sn groupTop}{\sv 6330}}{\sp{\sn groupRight}{\sv 14940}}
+{\sp{\sn groupBottom}{\sv 6683}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lidRegroup}{\sv 0}}{\shp{\*\shpinst\shplid1148{\sp{\sn relLeft}{\sv 14420}}{\sp{\sn relTop}{\sv 6330}}{\sp{\sn relRight}{\sv 14940}}{\sp{\sn relBottom}{\sv 6680}}
+{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}}{\shp{\*\shpinst\shplid1149{\sp{\sn relLeft}{\sv 14434}}{\sp{\sn relTop}{\sv 6351}}
+{\sp{\sn relRight}{\sv 14614}}{\sp{\sn relBottom}{\sv 6478}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 393216}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1149}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\f1\fs12 P1
+\par }}}}{\shp{\*\shpinst\shplid1150{\sp{\sn relLeft}{\sv 14434}}{\sp{\sn relTop}{\sv 6538}}{\sp{\sn relRight}{\sv 14614}}{\sp{\sn relBottom}{\sv 6665}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 458752}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1150}}{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\f1\fs12 P2
+\par }}}}{\shp{\*\shpinst\shplid1151{\sp{\sn relLeft}{\sv 14610}}{\sp{\sn relTop}{\sv 6337}}{\sp{\sn relRight}{\sv 14611}}{\sp{\sn relBottom}{\sv 6675}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 20}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 6350}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLine}{\sv 1}}}}
+{\shp{\*\shpinst\shplid1152{\sp{\sn relLeft}{\sv 14768}}{\sp{\sn relTop}{\sv 6345}}{\sp{\sn relRight}{\sv 14769}}{\sp{\sn relBottom}{\sv 6683}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 20}}{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 6350}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLine}{\sv 1}}}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8246\dppolygon\dppolycount4\dpptx0\dppty0\dpptx520\dppty0\dpptx520\dppty353
+\dpptx0\dppty353\dpx14420\dpy5890\dpxsize520\dpysize353\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft13326\shptop5012\shpright14890\shpbottom7105\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz50\shplid1138{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 524288}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1138}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {
+\par }\pard\plain \s1\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\b0\fs16  
+\par  
+\par 
+\par    Assieme  Crowbar}{\fs16 
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8242\dptxbx{\dptxbxtext\pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {
+\par }\pard\plain \s1\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\b0\fs16  
+\par  
+\par 
+\par    Assieme  Crowbar}{\fs16 
+\par }}\dpx13326\dpy5012\dpxsize1564\dpysize2093\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shpgrp{\*\shpinst\shpleft13504\shptop5810\shpright14750\shpbottom6846\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz52\shplid1140{\sp{\sn groupLeft}{\sv 13514}}{\sp{\sn groupTop}{\sv 5460}}{\sp{\sn groupRight}{\sv 14760}}
+{\sp{\sn groupBottom}{\sv 6496}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lidRegroup}{\sv 0}}{\shp{\*\shpinst\shplid1141{\sp{\sn relLeft}{\sv 13710}}{\sp{\sn relTop}{\sv 5667}}{\sp{\sn relRight}{\sv 14558}}{\sp{\sn relBottom}{\sv 5667}}
+{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 20}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}}}
+{\shp{\*\shpinst\shplid1142{\sp{\sn relLeft}{\sv 13697}}{\sp{\sn relTop}{\sv 6271}}{\sp{\sn relRight}{\sv 14545}}{\sp{\sn relBottom}{\sv 6271}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 20}}{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}}}{\shp{\*\shpinst\shplid1143{\sp{\sn relLeft}{\sv 14510}}{\sp{\sn relTop}{\sv 5460}}{\sp{\sn relRight}{\sv 14760}}{\sp{\sn relBottom}{\sv 6496}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 589824}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1143}}{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {
+\par 
+\par }\pard\plain \s1\qc\sb120\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 P
+\par }}}}{\shp{\*\shpinst\shplid1144{\sp{\sn relLeft}{\sv 13998}}{\sp{\sn relTop}{\sv 5460}}{\sp{\sn relRight}{\sv 14249}}{\sp{\sn relBottom}{\sv 6496}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 655360}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1144}}{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {
+\par 
+\par }\pard\plain \s1\qc\sb120\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 N
+\par }}}}{\shp{\*\shpinst\shplid1145{\sp{\sn relLeft}{\sv 13514}}{\sp{\sn relTop}{\sv 5460}}{\sp{\sn relRight}{\sv 13764}}{\sp{\sn relBottom}{\sv 6496}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 720896}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1145}}{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {
+\par 
+\par }\pard\plain \s1\qc\sb120\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 A
+\par }}}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8244\dppolygon\dppolycount4\dpptx0\dppty0\dpptx1246\dppty0\dpptx1246\dppty1036\dpptx0\dppty1036\dpx13504\dpy5810\dpxsize1246\dpysize1036
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft9225\shptop7498\shpright9571\shpbottom7704\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz136\shplid1250{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 786432}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1250}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {N2
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8328\dptxbx{\dptxbxtext\pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {N2
+\par }}\dpx9225\dpy7498\dpxsize346\dpysize206\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft6815\shptop7498\shpright7161\shpbottom7719\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz134\shplid1248{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 851968}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1248}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {P2
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8326\dptxbx{\dptxbxtext\pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {P2
+\par }}\dpx6815\dpy7498\dpxsize346\dpysize221\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft9225\shptop4248\shpright9586\shpbottom4469\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz135\shplid1249{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 917504}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1249}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {N1
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8327\dptxbx{\dptxbxtext\pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {N1
+\par }}\dpx9225\dpy4248\dpxsize361\dpysize221\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft6815\shptop4248\shpright7191\shpbottom4469\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz133\shplid1247{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 983040}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1247}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {P1
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8325\dptxbx{\dptxbxtext\pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {P1
+\par }}\dpx6815\dpy4248\dpxsize376\dpysize221\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft8389\shptop3527\shpright8811\shpbottom3739\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz127\shplid1235{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 1048576}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1235}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \s2\keepn\nowidctlpar\widctlpar\outlinelevel1\adjustright \b\f1\fs16\lang1040\cgrid {Q2A
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8319\dptxbx{\dptxbxtext\pard\plain \s2\keepn\nowidctlpar\widctlpar\outlinelevel1\adjustright \b\f1\fs16\lang1040\cgrid {Q2A
+\par }}\dpx8389\dpy3527\dpxsize422\dpysize212\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft8829\shptop3535\shpright9091\shpbottom3723\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz126\shplid1234{\sp{\sn shapeType}{\sv 10}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn adjustValue}{\sv 8332}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8318\dppolygon\dppolycount8\dpptx101\dppty0\dpptx0\dppty73\dpptx0\dppty115\dpptx101\dppty188\dpptx264\dppty188\dpptx365\dppty115\dpptx365\dppty73\dpptx264\dppty0
+\dpx8829\dpy3535\dpxsize262\dpysize188\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft8434\shptop2904\shpright8856\shpbottom3116\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz125\shplid1233{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 1114112}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1233}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \s2\keepn\nowidctlpar\widctlpar\outlinelevel1\adjustright \b\f1\fs16\lang1040\cgrid {Q1B
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8317\dptxbx{\dptxbxtext\pard\plain \s2\keepn\nowidctlpar\widctlpar\outlinelevel1\adjustright \b\f1\fs16\lang1040\cgrid {Q1B
+\par }}\dpx8434\dpy2904\dpxsize422\dpysize212\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft8829\shptop2912\shpright9091\shpbottom3100\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz124\shplid1232{\sp{\sn shapeType}{\sv 10}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn adjustValue}{\sv 8332}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8316\dppolygon\dppolycount8\dpptx101\dppty0\dpptx0\dppty73\dpptx0\dppty115\dpptx101\dppty188\dpptx264\dppty188\dpptx365\dppty115\dpptx365\dppty73\dpptx264\dppty0
+\dpx8829\dpy2912\dpxsize262\dpysize188\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft8366\shptop1966\shpright8788\shpbottom2178\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz123\shplid1231{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 1179648}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1231}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \s2\keepn\nowidctlpar\widctlpar\outlinelevel1\adjustright \b\f1\fs16\lang1040\cgrid {QN
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8315\dptxbx{\dptxbxtext\pard\plain \s2\keepn\nowidctlpar\widctlpar\outlinelevel1\adjustright \b\f1\fs16\lang1040\cgrid {QN
+\par }}\dpx8366\dpy1966\dpxsize422\dpysize212\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft8358\shptop2247\shpright8713\shpbottom2459\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz122\shplid1230{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 1245184}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1230}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \s5\keepn\nowidctlpar\widctlpar\outlinelevel4\adjustright \b\f1\fs16\lang1040\cgrid {QLR
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8314\dptxbx{\dptxbxtext\pard\plain \s5\keepn\nowidctlpar\widctlpar\outlinelevel4\adjustright \b\f1\fs16\lang1040\cgrid {QLR
+\par }}\dpx8358\dpy2247\dpxsize355\dpysize212\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft8813\shptop2244\shpright9075\shpbottom2432\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz121\shplid1229{\sp{\sn shapeType}{\sv 10}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn adjustValue}{\sv 8332}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8313\dppolygon\dppolycount8\dpptx101\dppty0\dpptx0\dppty73\dpptx0\dppty115\dpptx101\dppty188\dpptx264\dppty188\dpptx365\dppty115\dpptx365\dppty73\dpptx264\dppty0
+\dpx8813\dpy2244\dpxsize262\dpysize188\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft8814\shptop1959\shpright9076\shpbottom2147\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz120\shplid1228{\sp{\sn shapeType}{\sv 10}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn adjustValue}{\sv 8332}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8312\dppolygon\dppolycount8\dpptx101\dppty0\dpptx0\dppty73\dpptx0\dppty115\dpptx101\dppty188\dpptx264\dppty188\dpptx365\dppty115\dpptx365\dppty73\dpptx264\dppty0
+\dpx8814\dpy1959\dpxsize262\dpysize188\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shpgrp{\*\shpinst\shpleft8199\shptop3140\shpright9085\shpbottom3490\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz44\shplid1109{\sp{\sn groupLeft}{\sv 7996}}{\sp{\sn groupTop}{\sv 3370}}{\sp{\sn groupRight}{\sv 8882}}
+{\sp{\sn groupBottom}{\sv 3720}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lidRegroup}{\sv 0}}{\shp{\*\shpinst\shplid1110{\sp{\sn relLeft}{\sv 8482}}{\sp{\sn relTop}{\sv 3370}}{\sp{\sn relRight}{\sv 8882}}{\sp{\sn relBottom}{\sv 3720}}
+{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}}{\shp{\*\shpinst\shplid1111{\sp{\sn relLeft}{\sv 8682}}{\sp{\sn relTop}{\sv 3425}}
+{\sp{\sn relRight}{\sv 8682}}{\sp{\sn relBottom}{\sv 3652}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 1}}{\sp{\sn shapeType}{\sv 20}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}
+{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn lineEndArrowWidth}{\sv 0}}{\sp{\sn lineEndArrowLength}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLine}{\sv 1}}}}{\shp{\*\shpinst\shplid1112{\sp{\sn relLeft}{\sv 7996}}{\sp{\sn relTop}{\sv 3441}}
+{\sp{\sn relRight}{\sv 8456}}{\sp{\sn relBottom}{\sv 3678}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 1310720}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1112}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 TA1
+\par }}}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8236\dppolygon\dppolycount4\dpptx0\dppty0\dpptx886\dppty0\dpptx886\dppty350\dpptx0\dppty350\dpx8199\dpy3140\dpxsize886\dpysize350
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shpgrp{\*\shpinst\shpleft8207\shptop2528\shpright9093\shpbottom2878\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz43\shplid1105{\sp{\sn groupLeft}{\sv 7996}}{\sp{\sn groupTop}{\sv 2848}}{\sp{\sn groupRight}{\sv 8882}}
+{\sp{\sn groupBottom}{\sv 3198}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lidRegroup}{\sv 0}}{\shp{\*\shpinst\shplid1106{\sp{\sn relLeft}{\sv 8482}}{\sp{\sn relTop}{\sv 2848}}{\sp{\sn relRight}{\sv 8882}}{\sp{\sn relBottom}{\sv 3198}}
+{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}}{\shp{\*\shpinst\shplid1107{\sp{\sn relLeft}{\sv 8682}}{\sp{\sn relTop}{\sv 2903}}
+{\sp{\sn relRight}{\sv 8682}}{\sp{\sn relBottom}{\sv 3130}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 1}}{\sp{\sn shapeType}{\sv 20}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}
+{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn lineEndArrowWidth}{\sv 0}}{\sp{\sn lineEndArrowLength}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLine}{\sv 1}}}}{\shp{\*\shpinst\shplid1108{\sp{\sn relLeft}{\sv 7996}}{\sp{\sn relTop}{\sv 2919}}
+{\sp{\sn relRight}{\sv 8456}}{\sp{\sn relBottom}{\sv 3156}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 1376256}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1108}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 TA2
+\par }}}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8235\dppolygon\dppolycount4\dpptx0\dppty0\dpptx886\dppty0\dpptx886\dppty350\dpptx0\dppty350\dpx8207\dpy2528\dpxsize886\dpysize350
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shpgrp{\*\shpinst\shpleft9526\shptop3797\shpright11209\shpbottom4119\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz38\shplid1094{\sp{\sn groupLeft}{\sv 11806}}{\sp{\sn groupTop}{\sv 3797}}{\sp{\sn groupRight}{\sv 13489}}
+{\sp{\sn groupBottom}{\sv 4119}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lidRegroup}{\sv 0}}{\shp{\*\shpinst\shplid1095{\sp{\sn relLeft}{\sv 11806}}{\sp{\sn relTop}{\sv 3797}}{\sp{\sn relRight}{\sv 11982}}{\sp{\sn relBottom}{\sv 4118}}
+{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 1441792}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1095}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s1\qc\sb120\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 N
+\par }}}}{\shp{\*\shpinst\shplid1096{\sp{\sn relLeft}{\sv 12563}}{\sp{\sn relTop}{\sv 3798}}{\sp{\sn relRight}{\sv 12739}}{\sp{\sn relBottom}{\sv 4119}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 1507328}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1096}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain 
+\s1\qc\sb120\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 F
+\par }}}}{\shp{\*\shpinst\shplid1097{\sp{\sn relLeft}{\sv 13313}}{\sp{\sn relTop}{\sv 3798}}{\sp{\sn relRight}{\sv 13489}}{\sp{\sn relBottom}{\sv 4119}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 1572864}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1097}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain 
+\s1\qc\sb120\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 P
+\par }}}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8230\dppolygon\dppolycount4\dpptx0\dppty0\dpptx1683\dppty0\dpptx1683\dppty322\dpptx0\dppty322\dpx9526\dpy3797\dpxsize1683\dpysize322
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft9602\shptop1749\shpright11042\shpbottom2423\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz17\shplid1043{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 1638400}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn hspNext}{\sv 1043}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright 
+\fs20\lang1040\cgrid {\b\f1 MODULO
+\par 2B
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8209\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 MODULO
+\par 2B
+\par }}\dpx9602\dpy1749\dpxsize1440\dpysize674\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft9109\shptop493\shpright9109\shpbottom3777\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz8\shplid1034{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn rotation}{\sv -5898240}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 31750}}{\sp{\sn fArrowheadsOK}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8200
+\dpline\dpptx0\dppty0\dpptx0\dppty3284\dpx9109\dpy493\dpxsize0\dpysize3284\dplinew50\dplinecor0\dplinecog0\dplinecob0}}}
+{\shpgrp{\*\shpinst\shpleft11971\shptop3782\shpright13654\shpbottom4104\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz37\shplid1090{\sp{\sn groupLeft}{\sv 11806}}{\sp{\sn groupTop}{\sv 3797}}{\sp{\sn groupRight}{\sv 13489}}
+{\sp{\sn groupBottom}{\sv 4119}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lidRegroup}{\sv 0}}{\shp{\*\shpinst\shplid1091{\sp{\sn relLeft}{\sv 11806}}{\sp{\sn relTop}{\sv 3797}}{\sp{\sn relRight}{\sv 11982}}{\sp{\sn relBottom}{\sv 4118}}
+{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 1703936}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1091}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s1\qc\sb120\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 N
+\par }}}}{\shp{\*\shpinst\shplid1092{\sp{\sn relLeft}{\sv 12563}}{\sp{\sn relTop}{\sv 3798}}{\sp{\sn relRight}{\sv 12739}}{\sp{\sn relBottom}{\sv 4119}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 1769472}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1092}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain 
+\s1\qc\sb120\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 F
+\par }}}}{\shp{\*\shpinst\shplid1093{\sp{\sn relLeft}{\sv 13313}}{\sp{\sn relTop}{\sv 3798}}{\sp{\sn relRight}{\sv 13489}}{\sp{\sn relBottom}{\sv 4119}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 1835008}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1093}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain 
+\s1\qc\sb120\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 P
+\par }}}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8229\dppolygon\dppolycount4\dpptx0\dppty0\dpptx1683\dppty0\dpptx1683\dppty322\dpptx0\dppty322\dpx11971\dpy3782\dpxsize1683\dpysize322
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft11564\shptop478\shpright11564\shpbottom3762\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz7\shplid1033{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn rotation}{\sv -5898240}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 31750}}{\sp{\sn fArrowheadsOK}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8199
+\dpline\dpptx0\dppty0\dpptx0\dppty3284\dpx11564\dpy478\dpxsize0\dpysize3284\dplinew50\dplinecor0\dplinecog0\dplinecob0}}}
+{\shpgrp{\*\shpinst\shpleft7797\shptop4080\shpright8711\shpbottom4505\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz45\shplid1113{\sp{\sn groupLeft}{\sv 8107}}{\sp{\sn groupTop}{\sv 4200}}{\sp{\sn groupRight}{\sv 9021}}
+{\sp{\sn groupBottom}{\sv 4625}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lidRegroup}{\sv 0}}{\shp{\*\shpinst\shplid1114{\sp{\sn relLeft}{\sv 8107}}{\sp{\sn relTop}{\sv 4200}}{\sp{\sn relRight}{\sv 8867}}{\sp{\sn relBottom}{\sv 4625}}
+{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}}{\shp{\*\shpinst\shplid1115{\sp{\sn relLeft}{\sv 8190}}{\sp{\sn relTop}{\sv 4301}}
+{\sp{\sn relRight}{\sv 8650}}{\sp{\sn relBottom}{\sv 4538}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 1900544}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1115}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {TVI
+
+\par }}}}{\shp{\*\shpinst\shplid1116{\sp{\sn relLeft}{\sv 8873}}{\sp{\sn relTop}{\sv 4338}}{\sp{\sn relRight}{\sv 9015}}{\sp{\sn relBottom}{\sv 4338}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 20}}{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn lineEndArrowhead}{\sv 4}}{\sp{\sn lineEndArrowWidth}{\sv 0}}{\sp{\sn lineEndArrowLength}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLine}{\sv 1}}}}
+{\shp{\*\shpinst\shplid1117{\sp{\sn relLeft}{\sv 8879}}{\sp{\sn relTop}{\sv 4526}}{\sp{\sn relRight}{\sv 9021}}{\sp{\sn relBottom}{\sv 4526}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 20}}{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn lineEndArrowhead}{\sv 4}}{\sp{\sn lineEndArrowWidth}{\sv 0}}{\sp{\sn lineEndArrowLength}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLine}{\sv 1}}}}
+{\shp{\*\shpinst\shplid1118{\sp{\sn relLeft}{\sv 8691}}{\sp{\sn relTop}{\sv 4255}}{\sp{\sn relRight}{\sv 8843}}{\sp{\sn relBottom}{\sv 4387}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 1966080}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1118}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain 
+\qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 +
+\par }}}}{\shp{\*\shpinst\shplid1119{\sp{\sn relLeft}{\sv 8692}}{\sp{\sn relTop}{\sv 4425}}{\sp{\sn relRight}{\sv 8844}}{\sp{\sn relBottom}{\sv 4557}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 2031616}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1119}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 -
+\par }}}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8237\dppolygon\dppolycount4\dpptx0\dppty0\dpptx914\dppty0\dpptx914\dppty425\dpptx0\dppty425\dpx7797\dpy4080\dpxsize914\dpysize425
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft12306\shptop8155\shpright12306\shpbottom11438\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz9\shplid1035{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn rotation}{\sv -5898240}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 31750}}{\sp{\sn fArrowheadsOK}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8201
+\dpline\dpptx0\dppty0\dpptx0\dppty3283\dpx12306\dpy8155\dpxsize0\dpysize3283\dplinew50\dplinecor0\dplinecog0\dplinecob0}}}
+{\shpgrp{\*\shpinst\shpleft7476\shptop7811\shpright9159\shpbottom8133\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz48\shplid1128{\sp{\sn groupLeft}{\sv 11806}}{\sp{\sn groupTop}{\sv 3797}}{\sp{\sn groupRight}{\sv 13489}}
+{\sp{\sn groupBottom}{\sv 4119}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lidRegroup}{\sv 0}}{\shp{\*\shpinst\shplid1129{\sp{\sn relLeft}{\sv 11806}}{\sp{\sn relTop}{\sv 3797}}{\sp{\sn relRight}{\sv 11982}}{\sp{\sn relBottom}{\sv 4118}}
+{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 2097152}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1129}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 P
+\par }}}}{\shp{\*\shpinst\shplid1130{\sp{\sn relLeft}{\sv 12563}}{\sp{\sn relTop}{\sv 3798}}{\sp{\sn relRight}{\sv 12739}}{\sp{\sn relBottom}{\sv 4119}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 2162688}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1130}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright 
+\b\f1\fs20\lang1040\cgrid {\fs16 F
+\par }}}}{\shp{\*\shpinst\shplid1131{\sp{\sn relLeft}{\sv 13313}}{\sp{\sn relTop}{\sv 3798}}{\sp{\sn relRight}{\sv 13489}}{\sp{\sn relBottom}{\sv 4119}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 2228224}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1131}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright 
+\b\f1\fs20\lang1040\cgrid {\fs16 N
+\par }}}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8240\dppolygon\dppolycount4\dpptx0\dppty0\dpptx1683\dppty0\dpptx1683\dppty322\dpptx0\dppty322\dpx7476\dpy7811\dpxsize1683\dpysize322
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shpgrp{\*\shpinst\shpleft10022\shptop7804\shpright11705\shpbottom8126\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz47\shplid1124{\sp{\sn groupLeft}{\sv 11806}}{\sp{\sn groupTop}{\sv 3797}}{\sp{\sn groupRight}{\sv 13489}}
+{\sp{\sn groupBottom}{\sv 4119}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lidRegroup}{\sv 0}}{\shp{\*\shpinst\shplid1125{\sp{\sn relLeft}{\sv 11806}}{\sp{\sn relTop}{\sv 3797}}{\sp{\sn relRight}{\sv 11982}}{\sp{\sn relBottom}{\sv 4118}}
+{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 2293760}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1125}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 P
+\par }}}}{\shp{\*\shpinst\shplid1126{\sp{\sn relLeft}{\sv 12563}}{\sp{\sn relTop}{\sv 3798}}{\sp{\sn relRight}{\sv 12739}}{\sp{\sn relBottom}{\sv 4119}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 2359296}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1126}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright 
+\b\f1\fs20\lang1040\cgrid {\fs16 F
+\par }}}}{\shp{\*\shpinst\shplid1127{\sp{\sn relLeft}{\sv 13313}}{\sp{\sn relTop}{\sv 3798}}{\sp{\sn relRight}{\sv 13489}}{\sp{\sn relBottom}{\sv 4119}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 2424832}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1127}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright 
+\b\f1\fs20\lang1040\cgrid {\fs16 N
+\par }}}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8239\dppolygon\dppolycount4\dpptx0\dppty0\dpptx1683\dppty0\dpptx1683\dppty322\dpptx0\dppty322\dpx10022\dpy7804\dpxsize1683\dpysize322
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft10177\shptop9529\shpright11617\shpbottom10203\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz15\shplid1041{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 2490368}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn hspNext}{\sv 1041}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright 
+\fs20\lang1040\cgrid {\b\f1 MODULO FASE S
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8207\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 MODULO FASE S
+\par }}\dpx10177\dpy9529\dpxsize1440\dpysize674\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft7739\shptop9529\shpright9179\shpbottom10203\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz14\shplid1040{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 2555904}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn hspNext}{\sv 1040}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright 
+\fs20\lang1040\cgrid {\b\f1 MODULO FASE R
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8206\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 MODULO FASE R
+\par }}\dpx7739\dpy9529\dpxsize1440\dpysize674\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft9616\shptop8155\shpright9616\shpbottom11438\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz10\shplid1036{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn rotation}{\sv -5898240}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 31750}}{\sp{\sn fArrowheadsOK}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8202
+\dpline\dpptx0\dppty0\dpptx0\dppty3283\dpx9616\dpy8155\dpxsize0\dpysize3283\dplinew50\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft7215\shptop3798\shpright7391\shpbottom4119\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz41\shplid1100{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 2621440}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1100}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s1\qc\sb120\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 P
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8233\dptxbx{\dptxbxtext\pard\plain \s1\qc\sb120\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 P
+\par }}\dpx7215\dpy3798\dpxsize176\dpysize321\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft6465\shptop3798\shpright6641\shpbottom4119\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz40\shplid1099{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 2686976}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1099}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s1\qc\sb120\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 F
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8232\dptxbx{\dptxbxtext\pard\plain \s1\qc\sb120\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 F
+\par }}\dpx6465\dpy3798\dpxsize176\dpysize321\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft5708\shptop3797\shpright5884\shpbottom4118\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz39\shplid1098{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 2752512}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1098}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s1\qc\sb120\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 N
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8231\dptxbx{\dptxbxtext\pard\plain \s1\qc\sb120\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 N
+\par }}\dpx5708\dpy3797\dpxsize176\dpysize321\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft7010\shptop8165\shpright7010\shpbottom11448\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz11\shplid1037{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn rotation}{\sv -5898240}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 31750}}{\sp{\sn fArrowheadsOK}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8203
+\dpline\dpptx0\dppty0\dpptx0\dppty3283\dpx7010\dpy8165\dpxsize0\dpysize3283\dplinew50\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft4980\shptop8165\shpright4980\shpbottom11448\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz12\shplid1038{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn rotation}{\sv -5898240}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 31750}}{\sp{\sn fArrowheadsOK}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8204
+\dpline\dpptx0\dppty0\dpptx0\dppty3283\dpx4980\dpy8165\dpxsize0\dpysize3283\dplinew50\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft13892\shptop493\shpright13892\shpbottom3777\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz6\shplid1032{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 1}}
+{\sp{\sn rotation}{\sv -5898240}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 31750}}{\sp{\sn fArrowheadsOK}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8198
+\dpline\dpptx0\dppty0\dpptx0\dppty3284\dpx13892\dpy493\dpxsize0\dpysize3284\dplinew50\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft7777\shptop493\shpright7777\shpbottom3777\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz5\shplid1031{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn rotation}{\sv -5898240}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 31750}}{\sp{\sn fArrowheadsOK}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8197
+\dpline\dpptx0\dppty0\dpptx0\dppty3284\dpx7777\dpy493\dpxsize0\dpysize3284\dplinew50\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft5263\shptop493\shpright5263\shpbottom3777\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz4\shplid1030{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn rotation}{\sv -5898240}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 31750}}{\sp{\sn fArrowheadsOK}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8196
+\dpline\dpptx0\dppty0\dpptx0\dppty3284\dpx5263\dpy493\dpxsize0\dpysize3284\dplinew50\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft2768\shptop493\shpright2768\shpbottom3777\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz3\shplid1029{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn rotation}{\sv -5898240}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 31750}}{\sp{\sn fArrowheadsOK}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8195
+\dpline\dpptx0\dppty0\dpptx0\dppty3284\dpx2768\dpy493\dpxsize0\dpysize3284\dplinew50\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft1648\shptop8155\shpright14971\shpbottom8155\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz2\shplid1028{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 31750}}{\sp{\sn fArrowheadsOK}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8194\dpline\dpptx0\dppty0\dpptx13323\dppty0
+\dpx1648\dpy8155\dpxsize13323\dpysize0\dplinew50\dplinecor0\dplinecog0\dplinecob0}}}{\shp{\*\shpinst\shpleft1648\shptop3777\shpright14971\shpbottom3777\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz1\shplid1027
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 31750}}{\sp{\sn fArrowheadsOK}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8193\dpline\dpptx0\dppty0\dpptx13323\dppty0\dpx1648\dpy3777\dpxsize13323\dpysize0\dplinew50\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft1648\shptop493\shpright14971\shpbottom11437\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz0\shplid1026{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 31750}}{\sp{\sn fLine}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8192\dprect\dpx1648\dpy493\dpxsize13323\dpysize10944
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew50\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft4170\shptop10602\shpright4398\shpbottom10998\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz132\shplid1246{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 2818048}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn txflTextFlow}{\sv 2}}
+{\sp{\sn hspNext}{\sv 1246}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs14 MPA
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8324\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs14 MPA
+\par }}\dpx4170\dpy10602\dpxsize228\dpysize396\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft5141\shptop8150\shpright6676\shpbottom8354\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz108\shplid1216{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 2883584}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1216}}
+{\sp{\sn fFilled}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s2\qc\keepn\nowidctlpar\widctlpar\outlinelevel1\adjustright \b\f1\fs16\lang1040\cgrid {MF
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8300\dptxbx{\dptxbxtext\pard\plain \s2\qc\keepn\nowidctlpar\widctlpar\outlinelevel1\adjustright \b\f1\fs16\lang1040\cgrid {MF
+\par }}\dpx5141\dpy8150\dpxsize1535\dpysize204\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft4808\shptop10629\shpright4968\shpbottom11063\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz84\shplid1190{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 2949120}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn txflTextFlow}{\sv 2}}
+{\sp{\sn hspNext}{\sv 1190}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs14 MSF
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8276\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs14 MSF
+\par }}\dpx4808\dpy10629\dpxsize160\dpysize434\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft4638\shptop9999\shpright4968\shpbottom10263\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz83\shplid1189{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 3014656}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1189}}
+{\sp{\sn fFilled}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 SF
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8275\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 SF
+\par }}\dpx4638\dpy9999\dpxsize330\dpysize264\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft5618\shptop10239\shpright5808\shpbottom10623\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz77\shplid1183{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 3080192}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn txflTextFlow}{\sv 2}}
+{\sp{\sn hspNext}{\sv 1183}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 CC2
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8269\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 CC2
+\par }}\dpx5618\dpy10239\dpxsize190\dpysize384\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft5208\shptop10219\shpright5398\shpbottom10603\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz76\shplid1182{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 3145728}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn txflTextFlow}{\sv 2}}
+{\sp{\sn hspNext}{\sv 1182}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 CC1
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8268\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 CC1
+\par }}\dpx5208\dpy10219\dpxsize190\dpysize384\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft5841\shptop11265\shpright5993\shpbottom11397\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz75\shplid1181{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 3211264}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1181}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 1
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8267\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 1
+\par }}\dpx5841\dpy11265\dpxsize152\dpysize132\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft5851\shptop9485\shpright6003\shpbottom9617\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz74\shplid1180{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 3276800}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1180}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 2
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8266\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 2
+\par }}\dpx5851\dpy9485\dpxsize152\dpysize132\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft5823\shptop10530\shpright5824\shpbottom11228\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz73\shplid1179{\sp{\sn shapeType}{\sv 0}}{\sp{\sn fFlipH}{\sv 1}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}{\sp{\sn geoRight}{\sv 3}}{\sp{\sn geoBottom}{\sv 358}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn pVerticies}{\sv 8;2;(0,0);(3,358)}}{\sp{\sn pSegmentInfo}{\sv 2;5;16384;44032;1;44032;32768}}{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 19050}}{\sp{\sn lineStyle}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 4}}{\sp{\sn lineEndArrowWidth}{\sv 0}}{\sp{\sn lineEndArrowLength}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lidRegroup}{\sv 0}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8265\dppolygon\dppolycount2\dpptx0\dppty0\dpptx1\dppty698\dpx5823\dpy10530\dpxsize1\dpysize698
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat0\dplinew30\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft5820\shptop9654\shpright5990\shpbottom10560\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz72\shplid1178{\sp{\sn shapeType}{\sv 0}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}{\sp{\sn geoRight}{\sv 170}}{\sp{\sn geoBottom}{\sv 906}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn pVerticies}{\sv 8;3;(4,0);(0,486);(170,906)}}{\sp{\sn pSegmentInfo}{\sv 2;7;16384;44544;1;44032;1;44032
+;32768}}{\sp{\sn fFillOK}{\sv 1}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 19050}}{\sp{\sn lineStartArrowhead}{\sv 4}}{\sp{\sn lineStartArrowWidth}{\sv 0}}{\sp{\sn lineStartArrowLength}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn lidRegroup}{\sv 0}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8264\dppolygon\dppolycount3\dpptx4\dppty0\dpptx0\dppty486\dpptx170\dppty906\dpx5820\dpy9654\dpxsize170\dpysize906
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat0\dplinew30\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft5201\shptop11265\shpright5353\shpbottom11397\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz71\shplid1177{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 3342336}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1177}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 3
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8263\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 3
+\par }}\dpx5201\dpy11265\dpxsize152\dpysize132\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft5211\shptop9485\shpright5363\shpbottom9617\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz70\shplid1176{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 3407872}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1176}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 4
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8262\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 4
+\par }}\dpx5211\dpy9485\dpxsize152\dpysize132\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft5423\shptop10540\shpright5424\shpbottom11238\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz69\shplid1175{\sp{\sn shapeType}{\sv 0}}{\sp{\sn fFlipH}{\sv 1}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}{\sp{\sn geoRight}{\sv 3}}{\sp{\sn geoBottom}{\sv 358}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn pVerticies}{\sv 8;2;(0,0);(3,358)}}{\sp{\sn pSegmentInfo}{\sv 2;5;16384;44032;1;44032;32768}}{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 19050}}{\sp{\sn lineStyle}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 4}}{\sp{\sn lineEndArrowWidth}{\sv 0}}{\sp{\sn lineEndArrowLength}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lidRegroup}{\sv 0}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8261\dppolygon\dppolycount2\dpptx0\dppty0\dpptx1\dppty698\dpx5423\dpy10540\dpxsize1\dpysize698
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat0\dplinew30\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft5420\shptop9664\shpright5590\shpbottom10570\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz68\shplid1174{\sp{\sn shapeType}{\sv 0}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}{\sp{\sn geoRight}{\sv 170}}{\sp{\sn geoBottom}{\sv 906}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn pVerticies}{\sv 8;3;(4,0);(0,486);(170,906)}}{\sp{\sn pSegmentInfo}{\sv 2;7;16384;44544;1;44032;1;44032
+;32768}}{\sp{\sn fFillOK}{\sv 1}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 19050}}{\sp{\sn lineStartArrowhead}{\sv 4}}{\sp{\sn lineStartArrowWidth}{\sv 0}}{\sp{\sn lineStartArrowLength}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn lidRegroup}{\sv 0}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8260\dppolygon\dppolycount3\dpptx4\dppty0\dpptx0\dppty486\dpptx170\dppty906\dpx5420\dpy9664\dpxsize170\dpysize906
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat0\dplinew30\dplinecor0\dplinecog0\dplinecob0}}}
+{\shpgrp{\*\shpinst\shpleft5214\shptop8450\shpright6536\shpbottom9003\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz67\shplid1167{\sp{\sn groupLeft}{\sv 5741}}{\sp{\sn groupTop}{\sv 8350}}{\sp{\sn groupRight}{\sv 7063}}
+{\sp{\sn groupBottom}{\sv 8903}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lidRegroup}{\sv 0}}{\shp{\*\shpinst\shplid1168{\sp{\sn relLeft}{\sv 5920}}{\sp{\sn relTop}{\sv 8350}}{\sp{\sn relRight}{\sv 6910}}{\sp{\sn relBottom}{\sv 8670}}
+{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}}{\shp{\*\shpinst\shplid1169{\sp{\sn relLeft}{\sv 5920}}{\sp{\sn relTop}{\sv 8390}}
+{\sp{\sn relRight}{\sv 6560}}{\sp{\sn relBottom}{\sv 8520}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 0}}{\sp{\sn rotation}{\sv 0}}{\sp{\sn geoRight}{\sv 640}}{\sp{\sn geoBottom}{\sv 130}}{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;3;(0,120);(290,130);(640,0)}}{\sp{\sn pSegmentInfo}{\sv 2;7;16384;44544;1;44032;1;44032;32768}}{\sp{\sn fFillOK}{\sv 1}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 19050}}{\sp{\sn lineStartArrowhead}{\sv 4}}
+{\sp{\sn lineStartArrowWidth}{\sv 0}}{\sp{\sn lineStartArrowLength}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn lidRegroup}{\sv 0}}}}{\shp{\*\shpinst\shplid1170{\sp{\sn relLeft}{\sv 6533}}{\sp{\sn relTop}{\sv 8498}}
+{\sp{\sn relRight}{\sv 6905}}{\sp{\sn relBottom}{\sv 8508}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 20}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 19050}}
+{\sp{\sn lineEndArrowhead}{\sv 4}}{\sp{\sn lineEndArrowWidth}{\sv 0}}{\sp{\sn lineEndArrowLength}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLine}{\sv 1}}}}{\shp{\*\shpinst\shplid1171{\sp{\sn relLeft}{\sv 5741}}{\sp{\sn relTop}{\sv 8495}}
+{\sp{\sn relRight}{\sv 5893}}{\sp{\sn relBottom}{\sv 8627}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 3473408}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1171}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 +
+\par }}}}{\shp{\*\shpinst\shplid1172{\sp{\sn relLeft}{\sv 6911}}{\sp{\sn relTop}{\sv 8495}}{\sp{\sn relRight}{\sv 7063}}{\sp{\sn relBottom}{\sv 8627}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 3538944}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1172}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 -
+\par }}}}{\shp{\*\shpinst\shplid1173{\sp{\sn relLeft}{\sv 6458}}{\sp{\sn relTop}{\sv 8709}}{\sp{\sn relRight}{\sv 6908}}{\sp{\sn relBottom}{\sv 8903}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 3604480}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1173}}{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \s2\qc\keepn\nowidctlpar\widctlpar\outlinelevel1\adjustright \b\f1\fs16\lang1040\cgrid {CPR
+\par }}}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8259\dppolygon\dppolycount4\dpptx0\dppty0\dpptx1322\dppty0\dpptx1322\dppty553\dpptx0\dppty553\dpx5214\dpy8450\dpxsize1322\dpysize553
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft6742\shptop10985\shpright6894\shpbottom11117\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz66\shplid1166{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 3670016}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1166}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 2
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8258\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 2
+\par }}\dpx6742\dpy10985\dpxsize152\dpysize132\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft6741\shptop8485\shpright6893\shpbottom8617\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz65\shplid1165{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 3735552}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1165}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 1
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8257\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 1
+\par }}\dpx6741\dpy8485\dpxsize152\dpysize132\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft6810\shptop11175\shpright6810\shpbottom11317\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz64\shplid1164{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 1}}
+{\sp{\sn rotation}{\sv -5898240}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn lineEndArrowhead}{\sv 4}}{\sp{\sn lineEndArrowWidth}{\sv 0}}{\sp{\sn lineEndArrowLength}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLine}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8256\dpline\dpptx0\dppty0\dpptx0\dppty142\dpx6810\dpy11175\dpxsize0\dpysize142\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft6814\shptop8307\shpright6814\shpbottom8449\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz63\shplid1163{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn rotation}{\sv -5898240}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn lineEndArrowhead}{\sv 4}}{\sp{\sn lineEndArrowWidth}{\sv 0}}{\sp{\sn lineEndArrowLength}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLine}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8255\dpline\dpptx0\dppty0\dpptx0\dppty142\dpx6814\dpy8307\dpxsize0\dpysize142\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft6178\shptop11039\shpright6548\shpbottom11243\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz62\shplid1162{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 3801088}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1162}}
+{\sp{\sn fFilled}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 CN1
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8254\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 CN1
+\par }}\dpx6178\dpy11039\dpxsize370\dpysize204\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinehollow}}}
+{\shpgrp{\*\shpinst\shpleft6140\shptop10730\shpright6540\shpbottom11000\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz61\shplid1159{\sp{\sn groupLeft}{\sv 6520}}{\sp{\sn groupTop}{\sv 10100}}{\sp{\sn groupRight}{\sv 6970}}
+{\sp{\sn groupBottom}{\sv 10450}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lidRegroup}{\sv 0}}{\shp{\*\shpinst\shplid1160{\sp{\sn relLeft}{\sv 6520}}{\sp{\sn relTop}{\sv 10100}}{\sp{\sn relRight}{\sv 6970}}{\sp{\sn relBottom}{\sv 10230}}
+{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}}{\shp{\*\shpinst\shplid1161{\sp{\sn relLeft}{\sv 6630}}{\sp{\sn relTop}{\sv 10230}}
+{\sp{\sn relRight}{\sv 6860}}{\sp{\sn relBottom}{\sv 10450}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8253
+\dppolygon\dppolycount4\dpptx0\dppty0\dpptx400\dppty0\dpptx400\dppty270\dpptx0\dppty270\dpx6140\dpy10730\dpxsize400\dpysize270
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft5568\shptop9224\shpright5798\shpbottom9428\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz60\shplid1158{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 3866624}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1158}}
+{\sp{\sn fFilled}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 R1
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8252\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 R1
+\par }}\dpx5568\dpy9224\dpxsize230\dpysize204\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft5568\shptop8914\shpright5798\shpbottom9118\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz59\shplid1157{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 3932160}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1157}}
+{\sp{\sn fFilled}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s2\qc\keepn\nowidctlpar\widctlpar\outlinelevel1\adjustright \b\f1\fs16\lang1040\cgrid {R2
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8251\dptxbx{\dptxbxtext\pard\plain \s2\qc\keepn\nowidctlpar\widctlpar\outlinelevel1\adjustright \b\f1\fs16\lang1040\cgrid {R2
+\par }}\dpx5568\dpy8914\dpxsize230\dpysize204\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft5180\shptop9650\shpright6060\shpbottom11240\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz56\shplid1154{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8248\dprect\dpx5180\dpy9650\dpxsize880\dpysize1590
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft6233\shptop9054\shpright6511\shpbottom9961\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz55\shplid1153{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 3997696}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn txflTextFlow}{\sv 2}}
+{\sp{\sn hspNext}{\sv 1153}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs12 ASSIEME
+\par CONTATTORI
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8247\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs12 ASSIEME
+\par CONTATTORI
+\par }}\dpx6233\dpy9054\dpxsize278\dpysize907\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft6688\shptop8449\shpright6938\shpbottom11183\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz110\shplid1218{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 4063232}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn txflTextFlow}{\sv 2}}
+{\sp{\sn hspNext}{\sv 1218}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {RPR
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8302\dptxbx{\dptxbxtext\pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {RPR
+\par }}\dpx6688\dpy8449\dpxsize250\dpysize2734\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat0\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft3466\shptop10144\shpright4016\shpbottom10551\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz107\shplid1215{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 4128768}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1215}}
+{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 PA
+\par }\pard\plain \s3\qc\keepn\nowidctlpar\widctlpar\outlinelevel2\adjustright \b\f1\fs12\lang1040\cgrid {Pompa
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8299\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 PA
+\par }\pard\plain \s3\qc\keepn\nowidctlpar\widctlpar\outlinelevel2\adjustright \b\f1\fs12\lang1040\cgrid {Pompa
+\par }}\dpx3466\dpy10144\dpxsize550\dpysize407\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat0\dplinehollow}}}
+{\shpgrp{\*\shpinst\shpleft14367\shptop4660\shpright14949\shpbottom4872\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz130\shplid1242{\sp{\sn groupLeft}{\sv 14359}}{\sp{\sn groupTop}{\sv 3047}}{\sp{\sn groupRight}{\sv 14941}}
+{\sp{\sn groupBottom}{\sv 3259}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lidRegroup}{\sv 0}}{\shp{\*\shpinst\shplid1243{\sp{\sn relLeft}{\sv 14679}}{\sp{\sn relTop}{\sv 3055}}{\sp{\sn relRight}{\sv 14941}}{\sp{\sn relBottom}{\sv 3243}}
+{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 10}}{\sp{\sn adjustValue}{\sv 8332}}}}{\shp{\*\shpinst\shplid1244{\sp{\sn relLeft}{\sv 14359}}{\sp{\sn relTop}{\sv 3047}}
+{\sp{\sn relRight}{\sv 14781}}{\sp{\sn relBottom}{\sv 3259}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 4194304}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1244}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain 
+\s2\keepn\nowidctlpar\widctlpar\outlinelevel1\adjustright \b\f1\fs16\lang1040\cgrid {QT
+\par }}}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8322\dppolygon\dppolycount4\dpptx0\dppty0\dpptx582\dppty0\dpptx582\dppty212\dpptx0\dppty212\dpx14367\dpy4660\dpxsize582\dpysize212
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shpgrp{\*\shpinst\shpleft14359\shptop3887\shpright14941\shpbottom4099\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz129\shplid1239{\sp{\sn groupLeft}{\sv 14359}}{\sp{\sn groupTop}{\sv 3047}}{\sp{\sn groupRight}{\sv 14941}}
+{\sp{\sn groupBottom}{\sv 3259}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lidRegroup}{\sv 0}}{\shp{\*\shpinst\shplid1240{\sp{\sn relLeft}{\sv 14679}}{\sp{\sn relTop}{\sv 3055}}{\sp{\sn relRight}{\sv 14941}}{\sp{\sn relBottom}{\sv 3243}}
+{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 10}}{\sp{\sn adjustValue}{\sv 8332}}}}{\shp{\*\shpinst\shplid1241{\sp{\sn relLeft}{\sv 14359}}{\sp{\sn relTop}{\sv 3047}}
+{\sp{\sn relRight}{\sv 14781}}{\sp{\sn relBottom}{\sv 3259}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 4259840}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1241}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain 
+\s2\keepn\nowidctlpar\widctlpar\outlinelevel1\adjustright \b\f1\fs16\lang1040\cgrid {QS
+\par }}}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8321\dppolygon\dppolycount4\dpptx0\dppty0\dpptx582\dppty0\dpptx582\dppty212\dpptx0\dppty212\dpx14359\dpy3887\dpxsize582\dpysize212
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shpgrp{\*\shpinst\shpleft14359\shptop3047\shpright14941\shpbottom3259\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz128\shplid1236{\sp{\sn groupLeft}{\sv 14359}}{\sp{\sn groupTop}{\sv 3047}}{\sp{\sn groupRight}{\sv 14941}}
+{\sp{\sn groupBottom}{\sv 3259}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lidRegroup}{\sv 0}}{\shp{\*\shpinst\shplid1237{\sp{\sn relLeft}{\sv 14679}}{\sp{\sn relTop}{\sv 3055}}{\sp{\sn relRight}{\sv 14941}}{\sp{\sn relBottom}{\sv 3243}}
+{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 10}}{\sp{\sn adjustValue}{\sv 8332}}}}{\shp{\*\shpinst\shplid1238{\sp{\sn relLeft}{\sv 14359}}{\sp{\sn relTop}{\sv 3047}}
+{\sp{\sn relRight}{\sv 14781}}{\sp{\sn relBottom}{\sv 3259}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 4325376}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1238}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain 
+\s2\keepn\nowidctlpar\widctlpar\outlinelevel1\adjustright \b\f1\fs16\lang1040\cgrid {QR
+\par }}}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8320\dppolygon\dppolycount4\dpptx0\dppty0\dpptx582\dppty0\dpptx582\dppty212\dpptx0\dppty212\dpx14359\dpy3047\dpxsize582\dpysize212
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shpgrp{\*\shpinst\shpleft14071\shptop3433\shpright14957\shpbottom3783\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz35\shplid1082{\sp{\sn groupLeft}{\sv 14064}}{\sp{\sn groupTop}{\sv 3718}}{\sp{\sn groupRight}{\sv 14950}}
+{\sp{\sn groupBottom}{\sv 4068}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lidRegroup}{\sv 0}}{\shp{\*\shpinst\shplid1083{\sp{\sn relLeft}{\sv 14550}}{\sp{\sn relTop}{\sv 3718}}{\sp{\sn relRight}{\sv 14950}}{\sp{\sn relBottom}{\sv 4068}}
+{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}}{\shp{\*\shpinst\shplid1084{\sp{\sn relLeft}{\sv 14750}}{\sp{\sn relTop}{\sv 3773}}
+{\sp{\sn relRight}{\sv 14750}}{\sp{\sn relBottom}{\sv 4000}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 1}}{\sp{\sn shapeType}{\sv 20}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}
+{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn lineEndArrowWidth}{\sv 0}}{\sp{\sn lineEndArrowLength}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLine}{\sv 1}}}}{\shp{\*\shpinst\shplid1085{\sp{\sn relLeft}{\sv 14064}}{\sp{\sn relTop}{\sv 3789}}
+{\sp{\sn relRight}{\sv 14524}}{\sp{\sn relBottom}{\sv 4026}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 4390912}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1085}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain 
+\qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 TAS
+\par }}}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8227\dppolygon\dppolycount4\dpptx0\dppty0\dpptx886\dppty0\dpptx886\dppty350\dpptx0\dppty350\dpx14071\dpy3433\dpxsize886\dpysize350
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shpgrp{\*\shpinst\shpleft14064\shptop2646\shpright14950\shpbottom2996\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz34\shplid1078{\sp{\sn groupLeft}{\sv 14064}}{\sp{\sn groupTop}{\sv 3178}}{\sp{\sn groupRight}{\sv 14950}}
+{\sp{\sn groupBottom}{\sv 3528}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lidRegroup}{\sv 0}}{\shp{\*\shpinst\shplid1079{\sp{\sn relLeft}{\sv 14550}}{\sp{\sn relTop}{\sv 3178}}{\sp{\sn relRight}{\sv 14950}}{\sp{\sn relBottom}{\sv 3528}}
+{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}}{\shp{\*\shpinst\shplid1080{\sp{\sn relLeft}{\sv 14750}}{\sp{\sn relTop}{\sv 3233}}
+{\sp{\sn relRight}{\sv 14750}}{\sp{\sn relBottom}{\sv 3460}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 1}}{\sp{\sn shapeType}{\sv 20}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}
+{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn lineEndArrowWidth}{\sv 0}}{\sp{\sn lineEndArrowLength}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLine}{\sv 1}}}}{\shp{\*\shpinst\shplid1081{\sp{\sn relLeft}{\sv 14064}}{\sp{\sn relTop}{\sv 3249}}
+{\sp{\sn relRight}{\sv 14524}}{\sp{\sn relBottom}{\sv 3486}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 4456448}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1081}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain 
+\qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 TAR
+\par }}}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8226\dppolygon\dppolycount4\dpptx0\dppty0\dpptx886\dppty0\dpptx886\dppty350\dpptx0\dppty350\dpx14064\dpy2646\dpxsize886\dpysize350
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft1965\shptop4227\shpright2320\shpbottom4439\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz118\shplid1226{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 4521984}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1226}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \s5\keepn\nowidctlpar\widctlpar\outlinelevel4\adjustright \b\f1\fs16\lang1040\cgrid {Q2A
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8310\dptxbx{\dptxbxtext\pard\plain \s5\keepn\nowidctlpar\widctlpar\outlinelevel4\adjustright \b\f1\fs16\lang1040\cgrid {Q2A
+\par }}\dpx1965\dpy4227\dpxsize355\dpysize212\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft1965\shptop3983\shpright2387\shpbottom4195\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz119\shplid1227{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 4587520}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1227}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \s2\keepn\nowidctlpar\widctlpar\outlinelevel1\adjustright \b\f1\fs16\lang1040\cgrid {QCR
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8311\dptxbx{\dptxbxtext\pard\plain \s2\keepn\nowidctlpar\widctlpar\outlinelevel1\adjustright \b\f1\fs16\lang1040\cgrid {QCR
+\par }}\dpx1965\dpy3983\dpxsize422\dpysize212\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft1965\shptop4471\shpright2320\shpbottom4683\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz117\shplid1225{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 4653056}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1225}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \s5\keepn\nowidctlpar\widctlpar\outlinelevel4\adjustright \b\f1\fs16\lang1040\cgrid {Q1A
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8309\dptxbx{\dptxbxtext\pard\plain \s5\keepn\nowidctlpar\widctlpar\outlinelevel4\adjustright \b\f1\fs16\lang1040\cgrid {Q1A
+\par }}\dpx1965\dpy4471\dpxsize355\dpysize212\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft2911\shptop5049\shpright3371\shpbottom5313\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz27\shplid1059{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 4718592}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1059}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 C4
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8219\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 C4
+\par }}\dpx2911\dpy5049\dpxsize460\dpysize264\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft3841\shptop5089\shpright4071\shpbottom5293\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz26\shplid1058{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 4784128}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1058}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\f1\fs16 2
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8218\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\f1\fs16 2
+\par }}\dpx3841\dpy5089\dpxsize230\dpysize204\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft2591\shptop5109\shpright2821\shpbottom5313\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz25\shplid1057{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 4849664}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1057}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\f1\fs16 1
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8217\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\f1\fs16 1
+\par }}\dpx2591\dpy5109\dpxsize230\dpysize204\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft3610\shptop5072\shpright3837\shpbottom5299\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz24\shplid1056{\sp{\sn shapeType}{\sv 3}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8216\dpellipse\dpx3610\dpy5072\dpxsize227\dpysize227
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft2370\shptop5072\shpright2597\shpbottom5299\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz23\shplid1055{\sp{\sn shapeType}{\sv 3}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8215\dpellipse\dpx2370\dpy5072\dpxsize227\dpysize227
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft1920\shptop4700\shpright4360\shpbottom5660\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz22\shplid1054{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8214\dprect\dpx1920\dpy4700\dpxsize2440\dpysize960
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft1680\shptop4464\shpright1942\shpbottom4652\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz116\shplid1224{\sp{\sn shapeType}{\sv 10}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn adjustValue}{\sv 8332}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8308\dppolygon\dppolycount8\dpptx101\dppty0\dpptx0\dppty73\dpptx0\dppty115\dpptx101\dppty188\dpptx264\dppty188\dpptx365\dppty115\dpptx365\dppty73\dpptx264\dppty0
+\dpx1680\dpy4464\dpxsize262\dpysize188\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft1680\shptop4224\shpright1942\shpbottom4412\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz115\shplid1223{\sp{\sn shapeType}{\sv 10}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn adjustValue}{\sv 8332}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8307\dppolygon\dppolycount8\dpptx101\dppty0\dpptx0\dppty73\dpptx0\dppty115\dpptx101\dppty188\dpptx264\dppty188\dpptx365\dppty115\dpptx365\dppty73\dpptx264\dppty0
+\dpx1680\dpy4224\dpxsize262\dpysize188\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft1673\shptop3976\shpright1935\shpbottom4164\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz114\shplid1222{\sp{\sn shapeType}{\sv 10}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn adjustValue}{\sv 8332}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8306\dppolygon\dppolycount8\dpptx101\dppty0\dpptx0\dppty73\dpptx0\dppty115\dpptx101\dppty188\dpptx264\dppty188\dpptx365\dppty115\dpptx365\dppty73\dpptx264\dppty0
+\dpx1673\dpy3976\dpxsize262\dpysize188\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft2446\shptop9970\shpright2644\shpbottom10122\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz113\shplid1221{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 4915200}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1221}}
+{\sp{\sn fFilled}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs12 VF
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8305\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs12 VF
+\par }}\dpx2446\dpy9970\dpxsize198\dpysize152\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinehollow}}}
+{\shp{\*\shpinst\shpleft2681\shptop10103\shpright2830\shpbottom10186\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz112\shplid1220{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8304\dprect\dpx2681\dpy10103\dpxsize149\dpysize83
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft2476\shptop10481\shpright2989\shpbottom10858\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz111\shplid1219{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 4980736}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1219}}
+{\sp{\sn fFilled}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \s4\qc\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \b\f1\fs10\lang1040\cgrid {\b0\fs16 Filtro
+\par }\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\f1\fs16 G.U.
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8303\dptxbx{\dptxbxtext\pard\plain \s4\qc\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \b\f1\fs10\lang1040\cgrid {\b0\fs16 Filtro
+\par }\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\f1\fs16 G.U.
+\par }}\dpx2476\dpy10481\dpxsize513\dpysize377\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinehollow}}}
+{\shp{\*\shpinst\shpleft2078\shptop10185\shpright3421\shpbottom11122\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz109\shplid1217{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 5046272}}{\sp{\sn hspNext}{\sv 1217}}{\sp{\sn fillColor}{\sv 14540253}}{\sp{\sn fillOpacity}{\sv 32768}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fillShape}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain 
+\qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {
+\par 
+\par 
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8301\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {
+\par 
+\par 
+\par }}\dpx2078\dpy10185\dpxsize1343\dpysize937\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr221\dpfillbgcg221\dpfillbgcb221\dpfillpat0\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft3753\shptop11453\shpright3947\shpbottom11536\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz98\shplid1204{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8290\dprect\dpx3753\dpy11453\dpxsize194\dpysize83
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft3333\shptop11453\shpright3527\shpbottom11536\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz95\shplid1201{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8287\dprect\dpx3333\dpy11453\dpxsize194\dpysize83
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft2898\shptop11453\shpright3092\shpbottom11536\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz92\shplid1198{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8284\dprect\dpx2898\dpy11453\dpxsize194\dpysize83
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft2458\shptop11453\shpright2652\shpbottom11536\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz89\shplid1195{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8281\dprect\dpx2458\dpy11453\dpxsize194\dpysize83
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft2038\shptop11453\shpright2232\shpbottom11536\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz86\shplid1192{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8278\dprect\dpx2038\dpy11453\dpxsize194\dpysize83
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft4128\shptop11453\shpright4322\shpbottom11536\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz101\shplid1207{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8293\dprect\dpx4128\dpy11453\dpxsize194\dpysize83
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft4101\shptop11182\shpright4311\shpbottom11376\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz102\shplid1208{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 5111808}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1208}}
+{\sp{\sn fFilled}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 V6
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8294\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 V6
+\par }}\dpx4101\dpy11182\dpxsize210\dpysize194\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinehollow}}}
+{\shp{\*\shpinst\shpleft3726\shptop11182\shpright3936\shpbottom11376\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz99\shplid1205{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 5177344}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1205}}
+{\sp{\sn fFilled}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 V5
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8291\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 V5
+\par }}\dpx3726\dpy11182\dpxsize210\dpysize194\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinehollow}}}
+{\shp{\*\shpinst\shpleft3306\shptop11182\shpright3516\shpbottom11376\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz96\shplid1202{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 5242880}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1202}}
+{\sp{\sn fFilled}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 V4
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8288\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 V4
+\par }}\dpx3306\dpy11182\dpxsize210\dpysize194\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinehollow}}}
+{\shp{\*\shpinst\shpleft2871\shptop11182\shpright3081\shpbottom11376\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz93\shplid1199{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 5308416}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1199}}
+{\sp{\sn fFilled}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 V3
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8285\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 V3
+\par }}\dpx2871\dpy11182\dpxsize210\dpysize194\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinehollow}}}
+{\shp{\*\shpinst\shpleft2431\shptop11182\shpright2641\shpbottom11376\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz90\shplid1196{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 5373952}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1196}}
+{\sp{\sn fFilled}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 V2
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8282\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 V2
+\par }}\dpx2431\dpy11182\dpxsize210\dpysize194\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinehollow}}}
+{\shp{\*\shpinst\shpleft2011\shptop11182\shpright2221\shpbottom11376\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz87\shplid1193{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 5439488}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1193}}
+{\sp{\sn fFilled}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 V1
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8279\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 V1
+\par }}\dpx2011\dpy11182\dpxsize210\dpysize194\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinehollow}}}
+{\shp{\*\shpinst\shpleft4060\shptop11468\shpright4391\shpbottom11468\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz103\shplid1209{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 28575}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLine}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8295\dpline\dpptx0\dppty0\dpptx331\dppty0
+\dpx4060\dpy11468\dpxsize331\dpysize0\dplinew45\dplinecor0\dplinecog0\dplinecob0}}}{\shp{\*\shpinst\shpleft3685\shptop11468\shpright4016\shpbottom11468\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz100\shplid1206
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 28575}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLine}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8292\dpline\dpptx0\dppty0\dpptx331\dppty0\dpx3685\dpy11468\dpxsize331\dpysize0\dplinew45\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft3265\shptop11468\shpright3596\shpbottom11468\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz97\shplid1203{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 28575}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLine}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8289\dpline\dpptx0\dppty0\dpptx331\dppty0
+\dpx3265\dpy11468\dpxsize331\dpysize0\dplinew45\dplinecor0\dplinecog0\dplinecob0}}}{\shp{\*\shpinst\shpleft2830\shptop11468\shpright3161\shpbottom11468\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz94\shplid1200
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 28575}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLine}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8286\dpline\dpptx0\dppty0\dpptx331\dppty0\dpx2830\dpy11468\dpxsize331\dpysize0\dplinew45\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft2390\shptop11468\shpright2721\shpbottom11468\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz91\shplid1197{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 28575}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLine}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8283\dpline\dpptx0\dppty0\dpptx331\dppty0
+\dpx2390\dpy11468\dpxsize331\dpysize0\dplinew45\dplinecor0\dplinecog0\dplinecob0}}}{\shp{\*\shpinst\shpleft1970\shptop11468\shpright2301\shpbottom11468\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz88\shplid1194
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 28575}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLine}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8280\dpline\dpptx0\dppty0\dpptx331\dppty0\dpx1970\dpy11468\dpxsize331\dpysize0\dplinew45\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft3504\shptop10046\shpright3976\shpbottom10953\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz106\shplid1214{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8298\dprect\dpx3504\dpy10046\dpxsize472\dpysize907
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft3263\shptop9736\shpright4187\shpbottom10046\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz105\shplid1213{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8297\dprect\dpx3263\dpy9736\dpxsize924\dpysize310
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft2656\shptop9124\shpright4816\shpbottom9693\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz13\shplid1039{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 5505024}}{\sp{\sn hspNext}{\sv 1039}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 CENTRALINA
+\par IDRAULICA
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8205\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 CENTRALINA
+\par IDRAULICA
+\par }}\dpx2656\dpy9124\dpxsize2160\dpysize569\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft6360\shptop6364\shpright6832\shpbottom6760\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz85\shplid1191{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 5570560}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1191}}
+{\sp{\sn fFilled}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 SAI
+\par }\pard\plain \s3\qc\keepn\nowidctlpar\widctlpar\outlinelevel2\adjustright \b\f1\fs12\lang1040\cgrid {Sonda
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8277\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1\fs16 SAI
+\par }\pard\plain \s3\qc\keepn\nowidctlpar\widctlpar\outlinelevel2\adjustright \b\f1\fs12\lang1040\cgrid {Sonda
+\par }}\dpx6360\dpy6364\dpxsize472\dpysize396\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinehollow}}}
+{\shpgrp{\*\shpinst\shpleft6074\shptop6318\shpright6309\shpbottom6701\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz104\shplid1210{\sp{\sn groupLeft}{\sv 6520}}{\sp{\sn groupTop}{\sv 10100}}{\sp{\sn groupRight}{\sv 6970}}
+{\sp{\sn groupBottom}{\sv 10450}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lidRegroup}{\sv 0}}{\shp{\*\shpinst\shplid1211{\sp{\sn relLeft}{\sv 6520}}{\sp{\sn relTop}{\sv 10100}}{\sp{\sn relRight}{\sv 6970}}{\sp{\sn relBottom}{\sv 10230}}
+{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}}{\shp{\*\shpinst\shplid1212{\sp{\sn relLeft}{\sv 6630}}{\sp{\sn relTop}{\sv 10230}}
+{\sp{\sn relRight}{\sv 6860}}{\sp{\sn relBottom}{\sv 10450}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8296
+\dppolygon\dppolycount4\dpptx0\dppty0\dpptx235\dppty0\dpptx235\dppty383\dpptx0\dppty383\dpx6074\dpy6318\dpxsize235\dpysize383
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft2528\shptop8499\shpright2868\shpbottom8763\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz81\shplid1187{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 5636096}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1187}}
+{\sp{\sn fFilled}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 PT
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8273\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 PT
+\par }}\dpx2528\dpy8499\dpxsize340\dpysize264\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft3598\shptop8479\shpright3938\shpbottom8743\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz82\shplid1188{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 5701632}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1188}}
+{\sp{\sn fFilled}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 TL
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8274\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 TL
+\par }}\dpx3598\dpy8479\dpxsize340\dpysize264\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft1678\shptop9719\shpright1958\shpbottom10083\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz80\shplid1186{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 5767168}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn txflTextFlow}{\sv 2}}
+{\sp{\sn hspNext}{\sv 1186}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 PS
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8272\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 PS
+\par }}\dpx1678\dpy9719\dpxsize280\dpysize364\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft1678\shptop10209\shpright1958\shpbottom10573\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz79\shplid1185{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 5832704}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn txflTextFlow}{\sv 2}}
+{\sp{\sn hspNext}{\sv 1185}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 TM
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8271\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 TM
+\par }}\dpx1678\dpy10209\dpxsize280\dpysize364\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft15342\shptop2632\shpright16304\shpbottom9253\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz78\shplid1184{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 5898240}}{\sp{\sn txflTextFlow}{\sv 2}}{\sp{\sn hspNext}{\sv 1184}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\f1\fs28 EMU CLASS 72   NSB
+\par CONVERTITORE PER AZIONAMENTO
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8270\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\f1\fs28 EMU CLASS 72   NSB
+\par CONVERTITORE PER AZIONAMENTO
+\par }}\dpx15342\dpy2632\dpxsize962\dpysize6621\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinehollow}}}
+{\shp{\*\shpinst\shpleft4358\shptop7639\shpright4608\shpbottom8153\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz58\shplid1156{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 5963776}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn txflTextFlow}{\sv 2}}
+{\sp{\sn hspNext}{\sv 1156}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 RSC
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8250\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 RSC
+\par }}\dpx4358\dpy7639\dpxsize250\dpysize514\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft3468\shptop6919\shpright4358\shpbottom7593\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz57\shplid1155{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 6029312}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1155}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain 
+\qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 MES
+\par }\pard\plain \s15\qc\nowidctlpar\widctlpar\adjustright \b\f1\fs16\lang1040\cgrid {Moduloesting.
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8249\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 MES
+\par }\pard\plain \s15\qc\nowidctlpar\widctlpar\adjustright \b\f1\fs16\lang1040\cgrid {Moduloesting.
+\par }}\dpx3468\dpy6919\dpxsize890\dpysize674\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft13484\shptop5120\shpright14760\shpbottom5333\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz51\shplid1139{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 6094848}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1139}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 ACW1
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8243\dptxbx{\dptxbxtext\pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 ACW1
+\par }}\dpx13484\dpy5120\dpxsize1276\dpysize213\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shpgrp{\*\shpinst\shpleft12827\shptop7804\shpright14510\shpbottom8126\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz46\shplid1120{\sp{\sn groupLeft}{\sv 12827}}{\sp{\sn groupTop}{\sv 7804}}{\sp{\sn groupRight}{\sv 14510}}
+{\sp{\sn groupBottom}{\sv 8126}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lidRegroup}{\sv 0}}{\shp{\*\shpinst\shplid1121{\sp{\sn relLeft}{\sv 12827}}{\sp{\sn relTop}{\sv 7804}}{\sp{\sn relRight}{\sv 13003}}{\sp{\sn relBottom}{\sv 8125}}
+{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 6160384}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1121}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 P
+\par }}}}{\shp{\*\shpinst\shplid1122{\sp{\sn relLeft}{\sv 13584}}{\sp{\sn relTop}{\sv 7805}}{\sp{\sn relRight}{\sv 13760}}{\sp{\sn relBottom}{\sv 8126}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 6225920}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1122}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright 
+\b\f1\fs20\lang1040\cgrid {\fs16 F
+\par }}}}{\shp{\*\shpinst\shplid1123{\sp{\sn relLeft}{\sv 14334}}{\sp{\sn relTop}{\sv 7805}}{\sp{\sn relRight}{\sv 14510}}{\sp{\sn relBottom}{\sv 8126}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 6291456}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1123}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright 
+\b\f1\fs20\lang1040\cgrid {\fs16 N
+\par }}}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8238\dppolygon\dppolycount4\dpptx0\dppty0\dpptx1683\dppty0\dpptx1683\dppty322\dpptx0\dppty322\dpx12827\dpy7804\dpxsize1683\dpysize322
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shpgrp{\*\shpinst\shpleft11111\shptop5425\shpright13185\shpbottom6187\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz49\shplid1132{\sp{\sn groupLeft}{\sv 11111}}{\sp{\sn groupTop}{\sv 5425}}{\sp{\sn groupRight}{\sv 13185}}
+{\sp{\sn groupBottom}{\sv 6187}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lidRegroup}{\sv 0}}{\shp{\*\shpinst\shplid1133{\sp{\sn relLeft}{\sv 11111}}{\sp{\sn relTop}{\sv 5425}}{\sp{\sn relRight}{\sv 13049}}{\sp{\sn relBottom}{\sv 6187}}
+{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 6356992}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1133}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 
+\par }\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\f1 RCW
+\par }}}}{\shp{\*\shpinst\shplid1134{\sp{\sn relLeft}{\sv 12849}}{\sp{\sn relTop}{\sv 5542}}{\sp{\sn relRight}{\sv 13025}}{\sp{\sn relBottom}{\sv 5728}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 6422528}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1134}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright 
+\b\f1\fs20\lang1040\cgrid {\fs16 1
+\par }}}}{\shp{\*\shpinst\shplid1135{\sp{\sn relLeft}{\sv 13050}}{\sp{\sn relTop}{\sv 5638}}{\sp{\sn relRight}{\sv 13185}}{\sp{\sn relBottom}{\sv 5638}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 20}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 38100}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLine}{\sv 1}}}}
+{\shp{\*\shpinst\shplid1136{\sp{\sn relLeft}{\sv 13050}}{\sp{\sn relTop}{\sv 5990}}{\sp{\sn relRight}{\sv 13185}}{\sp{\sn relBottom}{\sv 5990}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 20}}{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 38100}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLine}{\sv 1}}}}{\shp{\*\shpinst\shplid1137{\sp{\sn relLeft}{\sv 12849}}{\sp{\sn relTop}{\sv 5894}}
+{\sp{\sn relRight}{\sv 13025}}{\sp{\sn relBottom}{\sv 6080}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 6488064}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1137}}{\sp{\sn fillColor}{\sv 65535}}
+{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \s1\qc\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 2
+\par }}}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8241\dppolygon\dppolycount4\dpptx0\dppty0\dpptx2074\dppty0\dpptx2074\dppty762\dpptx0\dppty762\dpx11111\dpy5425\dpxsize2074\dpysize762
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shpgrp{\*\shpinst\shpleft14064\shptop4240\shpright14950\shpbottom4590\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz36\shplid1086{\sp{\sn groupLeft}{\sv 14064}}{\sp{\sn groupTop}{\sv 4240}}{\sp{\sn groupRight}{\sv 14950}}
+{\sp{\sn groupBottom}{\sv 4590}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lidRegroup}{\sv 0}}{\shp{\*\shpinst\shplid1087{\sp{\sn relLeft}{\sv 14550}}{\sp{\sn relTop}{\sv 4240}}{\sp{\sn relRight}{\sv 14950}}{\sp{\sn relBottom}{\sv 4590}}
+{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}}{\shp{\*\shpinst\shplid1088{\sp{\sn relLeft}{\sv 14750}}{\sp{\sn relTop}{\sv 4295}}
+{\sp{\sn relRight}{\sv 14750}}{\sp{\sn relBottom}{\sv 4522}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 1}}{\sp{\sn shapeType}{\sv 20}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}
+{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn lineEndArrowWidth}{\sv 0}}{\sp{\sn lineEndArrowLength}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLine}{\sv 1}}}}{\shp{\*\shpinst\shplid1089{\sp{\sn relLeft}{\sv 14064}}{\sp{\sn relTop}{\sv 4311}}
+{\sp{\sn relRight}{\sv 14524}}{\sp{\sn relBottom}{\sv 4548}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 6553600}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1089}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain 
+\qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 TAT
+\par }}}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8228\dppolygon\dppolycount4\dpptx0\dppty0\dpptx886\dppty0\dpptx886\dppty350\dpptx0\dppty350\dpx14064\dpy4240\dpxsize886\dpysize350
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shpgrp{\*\shpinst\shpleft3181\shptop3788\shpright4864\shpbottom4110\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz42\shplid1101{\sp{\sn groupLeft}{\sv 11806}}{\sp{\sn groupTop}{\sv 3797}}{\sp{\sn groupRight}{\sv 13489}}
+{\sp{\sn groupBottom}{\sv 4119}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lidRegroup}{\sv 0}}{\shp{\*\shpinst\shplid1102{\sp{\sn relLeft}{\sv 11806}}{\sp{\sn relTop}{\sv 3797}}{\sp{\sn relRight}{\sv 11982}}{\sp{\sn relBottom}{\sv 4118}}
+{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 6619136}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1102}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain \s1\qc\sb120\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 N
+\par }}}}{\shp{\*\shpinst\shplid1103{\sp{\sn relLeft}{\sv 12563}}{\sp{\sn relTop}{\sv 3798}}{\sp{\sn relRight}{\sv 12739}}{\sp{\sn relBottom}{\sv 4119}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 6684672}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1103}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain 
+\s1\qc\sb120\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 F
+\par }}}}{\shp{\*\shpinst\shplid1104{\sp{\sn relLeft}{\sv 13313}}{\sp{\sn relTop}{\sv 3798}}{\sp{\sn relRight}{\sv 13489}}{\sp{\sn relBottom}{\sv 4119}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 6750208}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1104}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}{\shptxt \pard\plain 
+\s1\qc\sb120\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\f1\fs20\lang1040\cgrid {\fs16 P
+\par }}}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8234\dppolygon\dppolycount4\dpptx0\dppty0\dpptx1683\dppty0\dpptx1683\dppty322\dpptx0\dppty322\dpx3181\dpy3788\dpxsize1683\dpysize322
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shpgrp{\*\shpinst\shpleft7800\shptop4700\shpright10240\shpbottom5660\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz29\shplid1067{\sp{\sn groupLeft}{\sv 7800}}{\sp{\sn groupTop}{\sv 4700}}{\sp{\sn groupRight}{\sv 10240}}
+{\sp{\sn groupBottom}{\sv 5660}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lidRegroup}{\sv 0}}{\shp{\*\shpinst\shplid1068{\sp{\sn relLeft}{\sv 7800}}{\sp{\sn relTop}{\sv 4700}}{\sp{\sn relRight}{\sv 10240}}{\sp{\sn relBottom}{\sv 5660}}
+{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}}{\shp{\*\shpinst\shplid1069{\sp{\sn relLeft}{\sv 8050}}{\sp{\sn relTop}{\sv 5240}}
+{\sp{\sn relRight}{\sv 8277}}{\sp{\sn relBottom}{\sv 5467}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 3}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}}
+{\shp{\*\shpinst\shplid1070{\sp{\sn relLeft}{\sv 9290}}{\sp{\sn relTop}{\sv 5240}}{\sp{\sn relRight}{\sv 9517}}{\sp{\sn relBottom}{\sv 5467}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 3}}{\sp{\sn lineWidth}{\sv 12700}}
+{\sp{\sn fLine}{\sv 1}}}}{\shp{\*\shpinst\shplid1071{\sp{\sn relLeft}{\sv 8271}}{\sp{\sn relTop}{\sv 5277}}{\sp{\sn relRight}{\sv 8501}}{\sp{\sn relBottom}{\sv 5481}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 6815744}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1071}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\f1\fs16 1
+\par }}}}{\shp{\*\shpinst\shplid1072{\sp{\sn relLeft}{\sv 9521}}{\sp{\sn relTop}{\sv 5257}}{\sp{\sn relRight}{\sv 9751}}{\sp{\sn relBottom}{\sv 5461}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 6881280}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1072}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\f1\fs16 2
+\par }}}}{\shp{\*\shpinst\shplid1073{\sp{\sn relLeft}{\sv 8634}}{\sp{\sn relTop}{\sv 5251}}{\sp{\sn relRight}{\sv 9094}}{\sp{\sn relBottom}{\sv 5515}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 6946816}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1073}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 C1
+\par }}}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8221\dppolygon\dppolycount4\dpptx0\dppty0\dpptx2440\dppty0\dpptx2440\dppty960\dpptx0\dppty960\dpx7800\dpy4700\dpxsize2440\dpysize960
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft8796\shptop4914\shpright9026\shpbottom5118\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz32\shplid1076{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 7012352}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1076}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\f1\fs16 C
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8224\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\f1\fs16 C
+\par }}\dpx8796\dpy4914\dpxsize230\dpysize204\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft9815\shptop4877\shpright10042\shpbottom5104\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz31\shplid1075{\sp{\sn shapeType}{\sv 3}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8223\dpellipse\dpx9815\dpy4877\dpxsize227\dpysize227
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft8575\shptop4877\shpright8802\shpbottom5104\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz30\shplid1074{\sp{\sn shapeType}{\sv 3}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8222\dpellipse\dpx8575\dpy4877\dpxsize227\dpysize227
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew20\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft10046\shptop4894\shpright10276\shpbottom5098\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz33\shplid1077{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 7077888}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1077}}
+{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\f1\fs16 3
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8225\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\f1\fs16 3
+\par }}\dpx10046\dpy4894\dpxsize230\dpysize204\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinehollow}}}
+{\shpgrp{\*\shpinst\shpleft7800\shptop5880\shpright10240\shpbottom6840\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz28\shplid1060{\sp{\sn groupLeft}{\sv 1920}}{\sp{\sn groupTop}{\sv 5060}}{\sp{\sn groupRight}{\sv 4360}}
+{\sp{\sn groupBottom}{\sv 6020}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lidRegroup}{\sv 0}}{\shp{\*\shpinst\shplid1061{\sp{\sn relLeft}{\sv 1920}}{\sp{\sn relTop}{\sv 5060}}{\sp{\sn relRight}{\sv 4360}}{\sp{\sn relBottom}{\sv 6020}}
+{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}}{\shp{\*\shpinst\shplid1062{\sp{\sn relLeft}{\sv 2370}}{\sp{\sn relTop}{\sv 5432}}
+{\sp{\sn relRight}{\sv 2597}}{\sp{\sn relBottom}{\sv 5659}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 3}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}}
+{\shp{\*\shpinst\shplid1063{\sp{\sn relLeft}{\sv 3610}}{\sp{\sn relTop}{\sv 5432}}{\sp{\sn relRight}{\sv 3837}}{\sp{\sn relBottom}{\sv 5659}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 3}}{\sp{\sn lineWidth}{\sv 12700}}
+{\sp{\sn fLine}{\sv 1}}}}{\shp{\*\shpinst\shplid1064{\sp{\sn relLeft}{\sv 2591}}{\sp{\sn relTop}{\sv 5469}}{\sp{\sn relRight}{\sv 2821}}{\sp{\sn relBottom}{\sv 5673}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 7143424}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1064}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\f1\fs16 1
+\par }}}}{\shp{\*\shpinst\shplid1065{\sp{\sn relLeft}{\sv 3841}}{\sp{\sn relTop}{\sv 5449}}{\sp{\sn relRight}{\sv 4071}}{\sp{\sn relBottom}{\sv 5653}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 7208960}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1065}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\f1\fs16 2
+\par }}}}{\shp{\*\shpinst\shplid1066{\sp{\sn relLeft}{\sv 2911}}{\sp{\sn relTop}{\sv 5409}}{\sp{\sn relRight}{\sv 3371}}{\sp{\sn relBottom}{\sv 5673}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 7274496}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1066}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 C2
+\par }}}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8220\dppolygon\dppolycount4\dpptx0\dppty0\dpptx2440\dppty0\dpptx2440\dppty960\dpptx0\dppty960\dpx7800\dpy5880\dpxsize2440\dpysize960
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shpgrp{\*\shpinst\shpleft1920\shptop5880\shpright4360\shpbottom6840\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz21\shplid1047{\sp{\sn groupLeft}{\sv 1920}}{\sp{\sn groupTop}{\sv 5060}}{\sp{\sn groupRight}{\sv 4360}}
+{\sp{\sn groupBottom}{\sv 6020}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lidRegroup}{\sv 0}}{\shp{\*\shpinst\shplid1048{\sp{\sn relLeft}{\sv 1920}}{\sp{\sn relTop}{\sv 5060}}{\sp{\sn relRight}{\sv 4360}}{\sp{\sn relBottom}{\sv 6020}}
+{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 1}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}}{\shp{\*\shpinst\shplid1049{\sp{\sn relLeft}{\sv 2370}}{\sp{\sn relTop}{\sv 5432}}
+{\sp{\sn relRight}{\sv 2597}}{\sp{\sn relBottom}{\sv 5659}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 3}}{\sp{\sn lineWidth}{\sv 12700}}{\sp{\sn fLine}{\sv 1}}}}
+{\shp{\*\shpinst\shplid1050{\sp{\sn relLeft}{\sv 3610}}{\sp{\sn relTop}{\sv 5432}}{\sp{\sn relRight}{\sv 3837}}{\sp{\sn relBottom}{\sv 5659}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 3}}{\sp{\sn lineWidth}{\sv 12700}}
+{\sp{\sn fLine}{\sv 1}}}}{\shp{\*\shpinst\shplid1051{\sp{\sn relLeft}{\sv 2591}}{\sp{\sn relTop}{\sv 5469}}{\sp{\sn relRight}{\sv 2821}}{\sp{\sn relBottom}{\sv 5673}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 7340032}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1051}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\f1\fs16 1
+\par }}}}{\shp{\*\shpinst\shplid1052{\sp{\sn relLeft}{\sv 3841}}{\sp{\sn relTop}{\sv 5449}}{\sp{\sn relRight}{\sv 4071}}{\sp{\sn relBottom}{\sv 5653}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 7405568}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1052}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\f1\fs16 2
+\par }}}}{\shp{\*\shpinst\shplid1053{\sp{\sn relLeft}{\sv 2911}}{\sp{\sn relTop}{\sv 5409}}{\sp{\sn relRight}{\sv 3371}}{\sp{\sn relBottom}{\sv 5673}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 202}}{\sp{\sn lTxid}{\sv 7471104}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}
+{\sp{\sn dyTextBottom}{\sv 0}}{\sp{\sn hspNext}{\sv 1053}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 C3
+\par }}}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8213\dppolygon\dppolycount4\dpptx0\dppty0\dpptx2440\dppty0\dpptx2440\dppty960\dpptx0\dppty960\dpx1920\dpy5880\dpxsize2440\dpysize960
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft3247\shptop1749\shpright4687\shpbottom2423\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz19\shplid1045{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 7536640}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn hspNext}{\sv 1045}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright 
+\fs20\lang1040\cgrid {\b\f1 MODULO
+\par 2A
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8211\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 MODULO
+\par 2A
+\par }}\dpx3247\dpy1749\dpxsize1440\dpysize674\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft5825\shptop1749\shpright7265\shpbottom2423\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz20\shplid1046{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 7602176}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn hspNext}{\sv 1046}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright 
+\fs20\lang1040\cgrid {\b\f1 MODULO 
+\par 1A
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8212\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 MODULO 
+\par 1A
+\par }}\dpx5825\dpy1749\dpxsize1440\dpysize674\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft11985\shptop1749\shpright13425\shpbottom2423\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz18\shplid1044{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 7667712}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn hspNext}{\sv 1044}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright 
+\fs20\lang1040\cgrid {\b\f1 MODULO 
+\par 1B
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8210\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 MODULO 
+\par 1B
+\par }}\dpx11985\dpy1749\dpxsize1440\dpysize674\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinehollow}}}
+{\shp{\*\shpinst\shpleft13085\shptop9529\shpright14525\shpbottom10203\shpfhdr0\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz16\shplid1042{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 7733248}}{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn hspNext}{\sv 1042}}{\sp{\sn fillColor}{\sv 65535}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\shptxt \pard\plain \qc\nowidctlpar\widctlpar\adjustright 
+\fs20\lang1040\cgrid {\b\f1 MODULO FASE T
+\par }}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8208\dptxbx{\dptxbxtext\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1040\cgrid {\b\f1 MODULO FASE T
+\par }}\dpx13085\dpy9529\dpxsize1440\dpysize674\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb0\dpfillpat0\dplinehollow}}}}{
+\par }}

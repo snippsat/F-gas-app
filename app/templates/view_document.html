@@ -1,0 +1,90 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="card bg-white p-6 rounded-lg shadow-md fade-in">
+    <div class="flex justify-between items-center mb-6">
+        <h2 class="text-xl font-bold text-primary-700">{{ document.name }}</h2>
+        <div class="flex space-x-2">
+            <a href="{{ url_for('main.download_file', file_path=document.path) }}" class="btn bg-secondary-600 text-white px-4 py-2 rounded hover:bg-secondary-700 inline-flex items-center">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                </svg>
+                Download
+            </a>
+            <a href="{{ url_for('main.documents') }}" class="btn bg-gray-100 text-gray-700 px-4 py-2 rounded hover:bg-gray-200 inline-flex items-center">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
+                </svg>
+                Back
+            </a>
+        </div>
+    </div>
+
+    <div class="bg-gray-50 rounded-lg border border-gray-200 mb-6 p-4">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div>
+                <p class="text-sm text-gray-500">File Type</p>
+                <p class="font-medium">{{ document.type }}</p>
+            </div>
+            <div>
+                <p class="text-sm text-gray-500">Size</p>
+                <p class="font-medium">{{ document.size }}</p>
+            </div>
+            <div>
+                <p class="text-sm text-gray-500">Last Modified</p>
+                <p class="font-medium">{{ document.modified }}</p>
+            </div>
+            <div>
+                <p class="text-sm text-gray-500">Path</p>
+                <p class="font-medium text-gray-600 break-all">{{ document.path }}</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="document-viewer border border-gray-200 rounded-lg overflow-hidden">
+        {% if document.is_viewable %}
+            {% if document.is_image %}
+            <div class="flex justify-center p-4 bg-gray-100">
+                <img src="{{ url_for('main.serve_file', file_path=document.path) }}" alt="{{ document.name }}" class="max-w-full max-h-screen object-contain" />
+            </div>
+            {% elif document.is_pdf %}
+            <div class="h-screen">
+                <iframe src="{{ url_for('main.serve_file', file_path=document.path) }}" width="100%" height="100%" style="border: none;"></iframe>
+            </div>
+            {% elif document.is_text %}
+            <div class="bg-gray-100 p-6 overflow-auto max-h-screen">
+                <pre class="text-sm font-mono whitespace-pre-wrap">{{ document.content }}</pre>
+            </div>
+            {% else %}
+            <div class="bg-gray-100 p-6 text-center">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-16 w-16 mx-auto text-gray-400 mb-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                </svg>
+                <p class="text-lg font-medium text-gray-700">Preview not available</p>
+                <p class="text-gray-500 mb-4">This file type cannot be previewed directly in the browser.</p>
+                <a href="{{ url_for('main.download_file', file_path=document.path) }}" class="btn bg-secondary-600 text-white px-4 py-2 rounded hover:bg-secondary-700 inline-flex items-center justify-center mx-auto">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                    </svg>
+                    Download to View
+                </a>
+            </div>
+            {% endif %}
+        {% else %}
+        <div class="bg-gray-100 p-6 text-center">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-16 w-16 mx-auto text-accent-500 mb-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
+            </svg>
+            <p class="text-lg font-medium text-gray-700">Cannot display this file</p>
+            <p class="text-gray-500 mb-4">This file may be too large or in an unsupported format.</p>
+            <a href="{{ url_for('main.download_file', file_path=document.path) }}" class="btn bg-secondary-600 text-white px-4 py-2 rounded hover:bg-secondary-700 inline-flex items-center justify-center mx-auto">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                </svg>
+                Download Instead
+            </a>
+        </div>
+        {% endif %}
+    </div>
+</div>
+{% endblock %} 
