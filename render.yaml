@@ -2,8 +2,8 @@ services:
   - type: web
     name: fgas-app
     env: python
-    buildCommand: pip install -r requirements.txt
-    startCommand: python -m flask db init && python -m flask db migrate && python -m flask db upgrade && gunicorn --bind 0.0.0.0:$PORT wsgi:application
+    buildCommand: chmod +x build.sh
+    startCommand: ./build.sh
     envVars:
       - key: PYTHON_VERSION
         value: 3.11.0
