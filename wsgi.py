@@ -8,6 +8,9 @@ application = create_app()
 # Ensure migrate is registered in this context as well
 migrate = Migrate(application, db)
 
+# This is for Gunicorn
+app = application
+
 if __name__ == '__main__':
     # Only used for development
     application.run() 
