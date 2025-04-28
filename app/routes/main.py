@@ -9,6 +9,7 @@ from werkzeug.utils import secure_filename as werkzeug_secure_filename
 from pathlib import Path
 from markupsafe import Markup
 import unicodedata
+from flask_login import login_required, current_user
 
 # Define a function to format file sizes
 def format_file_size(size_bytes):
@@ -58,6 +59,7 @@ def index():
     return render_template('index.html', records=records)
 
 @bp.route('/register', methods=['GET', 'POST'])
+@login_required
 def register():
     if request.method == 'POST':
         id = request.form['id']
@@ -117,6 +119,7 @@ def view_record(id, date):
         return redirect(url_for('main.results'))
 
 @bp.route('/delete_record/<id>/<date>', methods=['POST'])
+@login_required
 def delete_record(id, date):
     try:
         date_obj = datetime.strptime(date, '%Y-%m-%d').date()

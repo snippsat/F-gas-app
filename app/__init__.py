@@ -1,6 +1,7 @@
 from flask import Flask
-from app.models.database import db, FGasRecord
+from app.models.database import db, FGasRecord, User
 from flask_migrate import Migrate
+from flask_login import LoginManager
 import os
 from dotenv import load_dotenv
 
@@ -43,9 +44,22 @@ def create_app():
     # Initialize Flask-Migrate
     migrate = Migrate(app, db)
     
+    # Initialize Flask-Login
+    login_manager = LoginManager()
+    login_manager.init_app(app)
+    login_manager.login_view = 'auth.login'
+    
+    @login_manager.user_loader
+    def load_user(user_id):
+        return User.query.get(int(user_id))
+    
     # Register blueprints
     from app.routes import main
     app.register_blueprint(main.bp)
+    
+    # Register auth blueprint
+    from app.routes import auth
+    app.register_blueprint(auth.bp)
     
     # Ensure the uploads directory exists
     os.makedirs(app.config['UPLOAD_FOLDER'], exist_ok=True)
