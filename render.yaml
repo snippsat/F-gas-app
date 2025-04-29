@@ -3,12 +3,17 @@ services:
     name: fgas-app
     env: python
     buildCommand: |
+      python -m venv .venv
+      source .venv/bin/activate
       python -m pip install --upgrade pip
       python -m pip install -r requirements.txt
       python -m pip install --no-cache-dir reportlab==4.1.0
+      python -c "import sys; print(f'Python path: {sys.path}')"
       python -c "import reportlab; print(f'ReportLab version: {reportlab.__version__}')"
       python -m flask db upgrade
-    startCommand: gunicorn --bind 0.0.0.0:$PORT wsgi:application
+    startCommand: |
+      source .venv/bin/activate
+      gunicorn --bind 0.0.0.0:$PORT wsgi:application
     envVars:
       - key: PYTHON_VERSION
         value: 3.11.0
