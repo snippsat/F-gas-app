@@ -1114,16 +1114,16 @@ def download_pdf(id, date):
             if current_sentence:
                 sentences.append(current_sentence.strip())
             
-            # Join sentences with line breaks
-            formatted_comments = '<br/>'.join(sentences)
+            # Join sentences with double line breaks for more space
+            formatted_comments = '<br/><br/>'.join(sentences)
             
             # Create a custom style for comments with proper line spacing
             comment_style = ParagraphStyle(
                 'CommentStyle',
                 parent=styles['Normal'],
-                spaceAfter=6,
-                spaceBefore=6,
-                leading=14,  # Line spacing
+                spaceAfter=12,  # Increased space after paragraphs
+                spaceBefore=12,  # Increased space before paragraphs
+                leading=16,  # Increased line spacing
                 allowWidows=0,
                 allowOrphans=0
             )
