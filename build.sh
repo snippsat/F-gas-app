@@ -5,8 +5,8 @@ set -o errexit
 # Install Python dependencies
 pip install -r requirements.txt
 
-# Install reportlab explicitly
-pip install reportlab==4.1.0
+# Install reportlab explicitly with verbose output
+pip install -v reportlab==4.1.0
 
 # Run any other build steps if needed
 python -m flask db upgrade
@@ -26,7 +26,4 @@ from app.models.database import db
 app = create_app()
 with app.app_context():
     db.create_all()
-"
-
-# Start the application
-gunicorn --bind 0.0.0.0:$PORT wsgi:application 
+" 
