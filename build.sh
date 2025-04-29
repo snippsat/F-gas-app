@@ -6,19 +6,24 @@ set -o errexit
 python --version
 pip --version
 
+# Create and activate virtual environment
+python -m venv .venv
+source .venv/bin/activate
+
 # Upgrade pip
-pip install --upgrade pip
+python -m pip install --upgrade pip
 
-# Install Python dependencies with verbose output
-pip install -v -r requirements.txt
+# Install dependencies
+python -m pip install -r requirements.txt
 
-# Install reportlab explicitly with verbose output
-pip install -v reportlab==4.1.0
+# Install reportlab explicitly
+python -m pip install --no-cache-dir reportlab==4.1.0
 
-# Verify reportlab installation
+# Print Python path and verify reportlab installation
+python -c "import sys; print(f'Python path: {sys.path}')"
 python -c "import reportlab; print(f'ReportLab version: {reportlab.__version__}')"
 
-# Run any other build steps if needed
+# Run database migrations
 python -m flask db upgrade
 
 # Create necessary directories
@@ -29,7 +34,7 @@ mkdir -p migrations
 export FLASK_APP=wsgi.py
 export FLASK_ENV=production
 
-# Create database tables directly
+# Create database tables
 python -c "
 from app import create_app
 from app.models.database import db
