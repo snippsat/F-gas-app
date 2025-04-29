@@ -1,4 +1,4 @@
-from flask import Blueprint, render_template, request, redirect, url_for, flash, send_from_directory, current_app, abort
+from flask import Blueprint, render_template, request, redirect, url_for, flash, send_from_directory, current_app, abort, send_file
 from app.models.database import db, FGasRecord
 from datetime import datetime
 import re
@@ -11,6 +11,11 @@ from markupsafe import Markup
 import unicodedata
 from flask_login import login_required, current_user
 from app.routes.auth import admin_required
+from reportlab.lib import colors
+from reportlab.lib.pagesizes import letter
+from reportlab.platypus import SimpleDocTemplate, Table, TableStyle, Paragraph, Spacer
+from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
+from io import BytesIO
 
 # Define a function to format file sizes
 def format_file_size(size_bytes):
@@ -1015,6 +1020,106 @@ def serve_file(file_path):
     
     # Serve the file for viewing in the browser
     return send_from_directory(file_dir, filename, as_attachment=False)
+
+@bp.route('/record/<id>/<date>/pdf')
+def download_pdf(id, date):
+    try:
+        date_obj = datetime.strptime(date, '%Y-%m-%d').date()
+        record = FGasRecord.get_record_by_id_and_date(id, date_obj)
+        if not record:
+            flash('Record not found!', 'error')
+            return redirect(url_for('main.results'))
+        
+        # Create a BytesIO buffer to store the PDF
+        buffer = BytesIO()
+        
+        # Create the PDF document
+        doc = SimpleDocTemplate(buffer, pagesize=letter)
+        styles = getSampleStyleSheet()
+        
+        # Create custom styles
+        title_style = ParagraphStyle(
+            'CustomTitle',
+            parent=styles['Heading1'],
+            fontSize=24,
+            spaceAfter=30
+        )
+        
+        # Create the content
+        content = []
+        
+        # Add title
+        content.append(Paragraph(f"F-Gas Record Details", title_style))
+        content.append(Spacer(1, 20))
+        
+        # Create the data for the table
+        data = [
+            ['Field', 'Value'],
+            ['ID', record.id],
+            ['Date', record.date.strftime('%Y-%m-%d')],
+            ['Filled (kg)', f"{record.filled_kg:.2f}"],
+            ['Status', record.status or 'N/A'],
+            ['Location', record.location or 'N/A']
+        ]
+        
+        # Add created_at and updated_at only if they exist
+        if record.created_at:
+            data.append(['Created At', record.created_at.strftime('%Y-%m-%d %H:%M')])
+        if record.updated_at:
+            data.append(['Updated At', record.updated_at.strftime('%Y-%m-%d %H:%M')])
+        
+        # Create the table
+        table = Table(data, colWidths=[150, 350])
+        
+        # Add table style
+        table.setStyle(TableStyle([
+            ('BACKGROUND', (0, 0), (-1, 0), colors.grey),
+            ('TEXTCOLOR', (0, 0), (-1, 0), colors.whitesmoke),
+            ('ALIGN', (0, 0), (-1, -1), 'CENTER'),
+            ('FONTNAME', (0, 0), (-1, 0), 'Helvetica-Bold'),
+            ('FONTSIZE', (0, 0), (-1, 0), 14),
+            ('BOTTOMPADDING', (0, 0), (-1, 0), 12),
+            ('BACKGROUND', (0, 1), (-1, -1), colors.beige),
+            ('TEXTCOLOR', (0, 1), (-1, -1), colors.black),
+            ('FONTNAME', (0, 1), (-1, -1), 'Helvetica'),
+            ('FONTSIZE', (0, 1), (-1, -1), 12),
+            ('GRID', (0, 0), (-1, -1), 1, colors.black),
+            ('ALIGN', (0, 0), (-1, -1), 'LEFT'),
+            ('VALIGN', (0, 0), (-1, -1), 'MIDDLE'),
+        ]))
+        
+        content.append(table)
+        
+        # Add comments section
+        if record.comments:
+            content.append(Spacer(1, 20))
+            content.append(Paragraph("Comments:", styles['Heading2']))
+            content.append(Spacer(1, 10))
+            content.append(Paragraph(record.comments, styles['Normal']))
+        
+        # Build the PDF
+        doc.build(content)
+        
+        # Move to the beginning of the BytesIO buffer
+        buffer.seek(0)
+        
+        # Generate filename
+        filename = f"fgas_record_{record.id}_{record.date.strftime('%Y%m%d')}.pdf"
+        
+        # Return the PDF as a downloadable file
+        return send_file(
+            buffer,
+            as_attachment=True,
+            download_name=filename,
+            mimetype='application/pdf'
+        )
+        
+    except ValueError:
+        flash('Invalid date format!', 'error')
+        return redirect(url_for('main.results'))
+    except Exception as e:
+        flash(f'Error generating PDF: {str(e)}', 'error')
+        return redirect(url_for('main.results'))
 
 # Helper function to normalize Norwegian characters for comparison
 def normalize_norwegian(text):
