@@ -2,8 +2,14 @@
 # exit on error
 set -o errexit
 
-# Install dependencies
+# Install Python dependencies
 pip install -r requirements.txt
+
+# Install reportlab explicitly
+pip install reportlab==4.1.0
+
+# Run any other build steps if needed
+python -m flask db upgrade
 
 # Create necessary directories
 mkdir -p instance
