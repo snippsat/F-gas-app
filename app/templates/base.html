@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>F-Gas App</title>
+    <title>F-Gas Registration System</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
       tailwind.config = {
@@ -11,6 +11,18 @@
           extend: {
             colors: {
               primary: {
+                50: '#eef2ff',
+                100: '#e0e7ff',
+                200: '#c7d2fe',
+                300: '#a5b4fc',
+                400: '#818cf8',
+                500: '#6366f1',
+                600: '#4f46e5',
+                700: '#4338ca',
+                800: '#3730a3',
+                900: '#312e81',
+              },
+              secondary: {
                 50: '#f0fdfa',
                 100: '#ccfbf1',
                 200: '#99f6e4',
@@ -21,18 +33,6 @@
                 700: '#0f766e',
                 800: '#115e59',
                 900: '#134e4a',
-              },
-              secondary: {
-                50: '#f8fafc',
-                100: '#f1f5f9',
-                200: '#e2e8f0',
-                300: '#cbd5e1',
-                400: '#94a3b8',
-                500: '#64748b',
-                600: '#475569',
-                700: '#334155',
-                800: '#1e293b',
-                900: '#0f172a',
               },
               accent: {
                 50: '#fef2f2',
@@ -46,6 +46,18 @@
                 800: '#991b1b',
                 900: '#7f1d1d',
               },
+              dark: {
+                50: '#f8fafc',
+                100: '#f1f5f9',
+                200: '#e2e8f0',
+                300: '#cbd5e1',
+                400: '#94a3b8',
+                500: '#64748b',
+                600: '#475569',
+                700: '#334155',
+                800: '#1e293b',
+                900: '#0f172a',
+              },
             },
           },
         },
@@ -53,26 +65,47 @@
     </script>
     <style>
       body {
-        min-height: 100vh;
         display: flex;
         flex-direction: column;
-        background-color: #f1f5f9;
+        min-height: 100vh;
+        background-color: #e2e8f0;
+        color: #1e293b;
       }
       main {
         flex: 1;
       }
+      .break-after-dot {
+        white-space: pre-line;
+      }
       .card {
-        background-color: #ffffff;
-        box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+        background-color: #f1f5f9;
+        border-radius: 0.5rem;
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.15), 0 2px 4px -1px rgba(0, 0, 0, 0.08);
+        transition: all 0.2s ease;
+      }
+      .card:hover {
+        box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.15), 0 4px 6px -2px rgba(0, 0, 0, 0.1);
       }
       .btn {
-        transition: all 0.2s;
+        transition: all 0.2s ease;
       }
       .btn:hover {
         transform: translateY(-1px);
       }
-      .fade-in {
-        animation: fadeIn 0.5s ease-in;
+      .btn:active {
+        transform: translateY(1px);
+      }
+      table {
+        border-collapse: separate;
+        border-spacing: 0;
+        border-radius: 0.5rem;
+        overflow: hidden;
+      }
+      th {
+        font-weight: 600;
+        text-transform: uppercase;
+        font-size: 0.75rem;
+        letter-spacing: 0.05em;
       }
       @keyframes fadeIn {
         from {
@@ -82,49 +115,42 @@
           opacity: 1;
         }
       }
+      .fade-in {
+        animation: fadeIn 0.3s ease-in-out;
+      }
     </style>
   </head>
-  <body class="bg-secondary-100">
-    <nav class="bg-primary-700 shadow-lg">
-      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+  <body class="bg-gray-100">
+    <nav class="bg-white shadow-lg">
+      <div class="max-w-7xl mx-auto px-4">
         <div class="flex justify-between h-16">
-          <div class="flex">
-            <div class="flex-shrink-0 flex items-center">
-              <a href="{{ url_for('main.index') }}" class="text-white text-xl font-bold"
-                >F-Gas App</a
-              >
-            </div>
-            <div class="hidden sm:ml-6 sm:flex sm:space-x-8">
-              <a
-                href="{{ url_for('main.index') }}"
-                class="text-white hover:text-primary-200 px-3 py-2 rounded-md text-sm font-medium"
-                >Home</a
-              >
-              <a
-                href="{{ url_for('main.results') }}"
-                class="text-white hover:text-primary-200 px-3 py-2 rounded-md text-sm font-medium"
-                >Results</a
-              >
-              <a
-                href="{{ url_for('main.documents') }}"
-                class="text-white hover:text-primary-200 px-3 py-2 rounded-md text-sm font-medium"
-                >Documents</a
-              >
-            </div>
+          <div class="flex-shrink-0 flex items-center">
+            <a href="{{ url_for('main.index') }}" class="text-xl font-bold text-gray-800"
+              >F-Gas Registration System</a
+            >
           </div>
-          <div class="flex items-center">
-            {% if current_user.is_authenticated %}
-            <span class="text-white mr-4">{{ current_user.username }}</span>
+          <div class="flex items-center space-x-4">
+            {% if current_user.is_authenticated %} {% if current_user.is_admin %}
+            <a href="{{ url_for('auth.list_users') }}" class="text-gray-500 hover:text-gray-700"
+              >User Management</a
+            >
+            {% endif %}
+            <span class="text-gray-500">Welcome, {{ current_user.username }}</span>
             <a
               href="{{ url_for('auth.logout') }}"
-              class="text-white hover:text-primary-200 px-3 py-2 rounded-md text-sm font-medium"
+              class="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-red-600 hover:bg-red-700"
               >Logout</a
             >
             {% else %}
             <a
               href="{{ url_for('auth.login') }}"
-              class="text-white hover:text-primary-200 px-3 py-2 rounded-md text-sm font-medium"
+              class="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700"
               >Login</a
+            >
+            <a
+              href="{{ url_for('auth.register') }}"
+              class="ml-4 inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-green-600 hover:bg-green-700"
+              >Register</a
             >
             {% endif %}
           </div>
@@ -132,20 +158,11 @@
       </div>
     </nav>
 
-    <main class="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8">
-      {% with messages = get_flashed_messages(with_categories=true) %} {% if messages %} {% for
-      category, message in messages %}
-      <div
-        class="mb-4 p-4 rounded-lg {% if category == 'error' %}bg-red-100 text-red-700{% else %}bg-green-100 text-green-700{% endif %}"
-      >
-        {{ message|safe }}
-      </div>
-      {% endfor %} {% endif %} {% endwith %} {% block content %}{% endblock %}
-    </main>
+    <main class="container mx-auto px-4 py-8">{% block content %}{% endblock %}</main>
 
-    <footer class="bg-primary-800 text-white mt-auto">
-      <div class="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8">
-        <p class="text-center text-sm">© 2024 F-Gas App. All rights reserved.</p>
+    <footer class="bg-white shadow-lg mt-8">
+      <div class="max-w-7xl mx-auto py-4 px-4">
+        <p class="text-center text-gray-500">F-Gas Registration System made by Tom Egil Larsen</p>
       </div>
     </footer>
   </body>
