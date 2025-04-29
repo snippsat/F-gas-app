@@ -1136,7 +1136,7 @@ def download_pdf(id, date):
                 if para.strip():  # Only add non-empty paragraphs
                     content.append(Paragraph(para, comment_style))
                     if i < len(paragraphs) - 1:  # Add extra space between paragraphs
-                        content.append(Spacer(1, 12))
+                        content.append(Spacer(1, 20))  # Increased space between paragraphs
         
         # Build the PDF
         doc.build(content)
