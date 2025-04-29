@@ -70,7 +70,10 @@ def register():
         db.session.add(user)
         db.session.commit()
         
-        flash('User registered successfully!', 'success')
+        if is_admin:
+            flash(f'Admin user {username} registered successfully!', 'success')
+        else:
+            flash(f'System user {username} registered successfully!', 'success')
         return redirect(url_for('auth.register'))
     
     return render_template('auth/register.html')
