@@ -4,8 +4,8 @@ from flask import Flask
 from app.models.database import db, User
 from app import create_app
 
-def create_admin_user(username, email, password):
-    """Create a new admin user."""
+def create_regular_user(username, email, password):
+    """Create a new regular (non-admin) user."""
     app = create_app()
     
     with app.app_context():
@@ -20,24 +20,24 @@ def create_admin_user(username, email, password):
             print(f"Error: User with email '{email}' already exists.")
             return False
         
-        # Create new admin user
-        user = User(username=username, email=email, is_admin=True)
+        # Create new regular user
+        user = User(username=username, email=email, is_admin=False)
         user.set_password(password)
         
         db.session.add(user)
         db.session.commit()
         
-        print(f"Admin user '{username}' created successfully!")
+        print(f"Regular user '{username}' created successfully!")
         return True
 
 if __name__ == "__main__":
     if len(sys.argv) != 4:
-        print("Usage: python create_admin.py <username> <email> <password>")
+        print("Usage: python create_user.py <username> <email> <password>")
         sys.exit(1)
         
     username = sys.argv[1]
     email = sys.argv[2]
     password = sys.argv[3]
     
-    success = create_admin_user(username, email, password)
+    success = create_regular_user(username, email, password)
     sys.exit(0 if success else 1) 

@@ -130,11 +130,8 @@
             >
           </div>
           <div class="flex items-center space-x-4">
-            {% if current_user.is_authenticated %} {% if current_user.is_admin %}
-            <a href="{{ url_for('auth.list_users') }}" class="text-white hover:text-primary-200"
-              >User Management</a
-            >
-            {% endif %}
+            {% if current_user.is_authenticated %}
+            <!-- Removed User Management link as it will be handled through command line -->
             <span class="text-white">Welcome, {{ current_user.username }}</span>
             <a
               href="{{ url_for('auth.logout') }}"
