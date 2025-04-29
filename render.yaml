@@ -2,7 +2,11 @@ services:
   - type: web
     name: fgas-app
     env: python
-    buildCommand: pip install -r requirements.txt
+    buildCommand: |
+      pip install --upgrade pip
+      pip install -r requirements.txt
+      pip install reportlab==4.1.0
+      python -m flask db upgrade
     startCommand: gunicorn --bind 0.0.0.0:$PORT wsgi:application
     envVars:
       - key: PYTHON_VERSION
