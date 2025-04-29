@@ -147,11 +147,7 @@
               class="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-primary-700 hover:bg-primary-800"
               >Login</a
             >
-            <a
-              href="{{ url_for('auth.register') }}"
-              class="ml-4 inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-secondary-700 hover:bg-secondary-800"
-              >Register</a
-            >
+            <!-- Removed register link from base menu to avoid confusion with admin-only registration -->
             {% endif %}
           </div>
         </div>
