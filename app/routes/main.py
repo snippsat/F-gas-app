@@ -1090,12 +1090,27 @@ def download_pdf(id, date):
         
         content.append(table)
         
-        # Add comments section
+        # Add comments section with proper formatting
         if record.comments:
             content.append(Spacer(1, 20))
             content.append(Paragraph("Comments:", styles['Heading2']))
             content.append(Spacer(1, 10))
-            content.append(Paragraph(record.comments, styles['Normal']))
+            
+            # Format comments with line breaks
+            formatted_comments = record.comments.replace('. ', '.\n').replace('! ', '!\n').replace('? ', '?\n')
+            if formatted_comments.endswith('.'):
+                formatted_comments += '\n'
+            
+            # Create a custom style for comments with proper line spacing
+            comment_style = ParagraphStyle(
+                'CommentStyle',
+                parent=styles['Normal'],
+                spaceAfter=6,
+                spaceBefore=6,
+                leading=14  # Line spacing
+            )
+            
+            content.append(Paragraph(formatted_comments, comment_style))
         
         # Build the PDF
         doc.build(content)
