@@ -1128,15 +1128,6 @@ def download_pdf(id, date):
                 allowOrphans=0
             )
             
-            # Create a style for empty paragraphs
-            empty_style = ParagraphStyle(
-                'EmptyStyle',
-                parent=styles['Normal'],
-                spaceAfter=20,  # Space after empty paragraph
-                spaceBefore=20,  # Space before empty paragraph
-                leading=0  # No line spacing for empty paragraph
-            )
-            
             # Split the formatted comments into paragraphs
             paragraphs = formatted_comments.split('\n\n')
             
@@ -1144,8 +1135,11 @@ def download_pdf(id, date):
             for i, para in enumerate(paragraphs):
                 if para.strip():  # Non-empty paragraph
                     content.append(Paragraph(para, comment_style))
+                    # Add extra space after each paragraph except the last one
+                    if i < len(paragraphs) - 1:
+                        content.append(Spacer(1, 20))
                 else:  # Empty paragraph (blank line)
-                    content.append(Paragraph('&nbsp;', empty_style))
+                    content.append(Spacer(1, 20))
         
         # Build the PDF
         doc.build(content)
