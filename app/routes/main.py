@@ -1097,9 +1097,25 @@ def download_pdf(id, date):
             content.append(Spacer(1, 10))
             
             # Format comments with line breaks
-            formatted_comments = record.comments.replace('. ', '.\n').replace('! ', '!\n').replace('? ', '?\n')
-            if formatted_comments.endswith('.'):
-                formatted_comments += '\n'
+            formatted_comments = record.comments
+            
+            # Split into sentences and add line breaks
+            sentences = []
+            current_sentence = ""
+            
+            # Split by common sentence endings
+            for char in formatted_comments:
+                current_sentence += char
+                if char in ['.', '!', '?']:
+                    sentences.append(current_sentence.strip())
+                    current_sentence = ""
+            
+            # Add any remaining text
+            if current_sentence:
+                sentences.append(current_sentence.strip())
+            
+            # Join sentences with line breaks
+            formatted_comments = '<br/>'.join(sentences)
             
             # Create a custom style for comments with proper line spacing
             comment_style = ParagraphStyle(
@@ -1107,7 +1123,9 @@ def download_pdf(id, date):
                 parent=styles['Normal'],
                 spaceAfter=6,
                 spaceBefore=6,
-                leading=14  # Line spacing
+                leading=14,  # Line spacing
+                allowWidows=0,
+                allowOrphans=0
             )
             
             content.append(Paragraph(formatted_comments, comment_style))
